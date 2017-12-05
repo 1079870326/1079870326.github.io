@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    // let a=1;
+    // var b=12;
+    // alert("a="+a+" "+"b="+b);
+    // for(let i=1;i<10;i++){
+        //     console.log(i)
+        // };
+        // console.log(i)//取不到局部变量  在外部就会报错
+
+        var a=[];
+        for (let i=0;i<10;i++){
+        a[i]=function () {
+            console.log(i)
+            console.log(a)
+        }
+    }
+    a[6]();//
+
+    //
+    // var a = [];
+    // for (var i = 0; i < 10; i++) {
+    //     a[i] = function () {
+    //         console.log(i);
+    //     };
+    // }
+    // a[6](); // 10
+
+
+</script>
+</html>

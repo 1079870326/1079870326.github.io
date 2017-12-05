@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<script src="https://cdn.bootcss.com/react/15.4.2/react.min.js"></script>
+		<script src="https://cdn.bootcss.com/react/15.4.2/react-dom.min.js"></script>
+		<script src="https://cdn.bootcss.com/babel-standalone/6.22.1/babel.min.js"></script>
+		<title></title>
+	</head>
+	<body>
+		<div id="root">
+			
+		</div>
+		<script type="text/babel">
+			var CheckBox=React.createClass({
+				//初始化一个状态值
+				getInitialState:function(){
+					return{
+						checked:true
+						
+					}
+				},
+				handleChecked:function(){
+					this.setState({checked:!this.state.checked});
+				},
+				
+				render:function(){
+					var msg;
+					if(this.state.checked){
+						msg="checked";
+					}else{
+						msg="unckecked";
+					}
+					return(
+						<div>
+						    <input type="checkbox" onChange={this.handleChecked} defaultChecked={this.state.checked} />
+						    <h3>Checkbox is {msg}</h3>
+						</div>
+					);
+				}
+			});
+			ReactDOM.render(
+				<CheckBox />,
+				document.getElementById("root")
+			)
+		</script>
+	</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+   /* {
+        var message="hello";
+        let age=25;
+
+        const message="Goodbye!";
+        const age=30;
+        //无法重复声明
+    }*/
+
+
+   {
+       const foo ={};
+
+       //为foo添加一个属性，可以成功
+       foo.prop=123;
+       console.log(foo.prop)//123
+
+       //将foo指向另一个对象，就会报错
+       // foo={};
+   }
+
+   {
+       const a=[];
+       a.push('hello');   //可执行
+       a.length=0;        //可执行
+       // a=['Dave']         //报错
+       //常量a是数组，数组本身是可写的、但是不能再次赋值数组
+   }
+
+   {
+       const foo=Object.freeze({});//冻结
+       //常规模式时，下面一行不起作用；
+       //严格模式时，该行会报错
+       // foo.prop=123
+       console.log(foo)
+   }
+        console.log("分割线--------------------------------")
+   {
+       var constantize=(obj)=>{
+           Object.freeze(obj);
+           Object.keys(obj).forEach((key,i)=>{
+               if (typeof obj[key]==="object"){
+                   constantize(obj[key])
+               }
+           })
+       }
+
+   }
+
+
+</script>
+
+</body>
+</html>

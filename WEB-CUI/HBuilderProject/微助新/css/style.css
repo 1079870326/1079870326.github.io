@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.box1{
+	position: relative;
+}
+.mengban{
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: -1;
+	overflow: hidden;
+	width: 100%;
+	/*background: url(../img/mengban.jpg);*/
+}
+.mengban img{
+	display: block;
+	margin: auto;
+	width: 100%;
+}
+html,body{
+	width: 100%;
+	height: 100%;
+}
+.lunbo{
+	width: 100%;
+	background: yellow;
+	opacity: 0.6;
+}
+
+.fw{
+	width: 100%;
+	background: red;
+	opacity: 0.6;
+	overflow: hidden;
+}
+.fw div{
+	width: 21%;
+	height: 70px;
+	background: #fff;
+	float: left;
+	margin: 2%;
+}
+.wz{
+	color: #FFF;
+}
+
+li img{
+	width: 40px;
+	height: 40px;
+	background: #ff;
+}
+
+p{
+	background:rgba(51,51,51, 0.5);
+	color: #FFF;
+	text-indent: 2em;
+	display: inline-block;
+}
+nav{
+	height: 50px;
+	overflow: hidden;
+	color: #FFF;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+}
+nav div{
+	width: 25%;
+	float: left;
+	margin: -1px;
+	border:1px solid red;
+	background: #fff;
+	height: 50px;
+}
+
+

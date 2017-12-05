@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+
+		<title></title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<link href="css/mui.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/wzsh.css" />
+		<script src="js/jquery-1.11.0.js"></script>
+		<style>
+			.wzsh {
+				overflow: hidden;
+			}
+			.lb,.dh{
+				overflow-x:auto ;
+			}
+		</style>
+
+	</head>
+
+	<body>
+		<div class="wzsh">
+			<header id="header" class="mui-bar mui-bar-nav">
+				<a href="4.html" onclick="window.histor.go(-1)" class="mui-icon mui-icon-left-nav mui-pull-left"></a>
+				<h1 class="mui-title">通讯录</h1>
+
+			</header>
+			<div class="mui-content">
+				<div class="mui-search">
+					<input type="search" class="mui-input-clear" placeholder="搜索姓名/电话" />
+				</div>
+				<div class="over"></div>
+				<!--搜索-->
+				<div class="mui-row">
+					<!--
+                    	作者：1079870326@qq.com
+                    	时间：2017-10-31
+                    	描述：左边
+                    -->
+					<div class="mui-col-xs-4">
+						<ul class="mui-table-view lb">
+						</ul>
+					</div>
+					<!--
+                    	作者：1079870326@qq.com
+                    	时间：2017-10-31
+                    	描述：右边
+                    -->
+					<div class="mui-col-xs-8">
+						<ul class="mui-table-view dh">
+
+						</ul>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+	</body>
+
+</html>
+<script>
+	
+	
+	
+	
+	var a = ($(window).height());
+	var b = a - 74
+
+	$(".lb").css({
+		"height": b
+	});
+	$(".dh").css({
+		"height": b
+	});
+//获取视窗高 并且替换
+		$.ajax({
+			url:"1.json",
+			success: function(wz) {
+				
+				$.each(wz, function(index, content) {
+					//				
+					var a = content;
+					$(".dh").append("<li class='mui-table-view-cell'; ><span>" + content.name + "</span><span><a href=" + content.dx + " class='mui-icon mui-icon-chatboxes'></a><a href=" + content.tel + " class='mui-icon mui-icon-phone'></a><span></li>");
+				});
+
+				//			
+
+			}
+		})
+
+	$(function() {
+
+		$.ajax({
+			url: "wzsh.json",
+			success: function(wz) {
+				 function sortprice(a,b){  
+                   return a.dh-b.dh  
+                }  
+                //排序
+                
+				wz.sort(sortprice)
+				$.each(wz, function(index, content) {
+
+					//var a  = content;
+					$(".lb").append("<li  class='mui-table-view-cell'; d='" + content.dh + "'>" + content.name + "</li>");
+				})
+				$(".lb>li").each(function(index) {
+					$(this).on("click", function() {
+						right($(this).attr("d"));
+						//点击事件绑定
+
+					})
+
+				})
+
+			}
+		})
+
+	});
+
+	function right(ii) {
+		$(".dh").children().remove();
+		$.ajax({
+			url: ii + ".json",
+//			  async: true,
+            error: function(jqXHR, error, errorThrown) {
+                alert("暂时没有数据");   
+                //没有数据提示
+                },
+			success: function(wz) {
+				
+				$.each(wz, function(index, content) {
+					//				
+					var a = content;
+					$(".dh").append("<li class='mui-table-view-cell'; ><span>" + content.name + "</span><span><a href=" + content.dx + " class='mui-icon mui-icon-chatboxes'></a><a href=" + content.tel + " class='mui-icon mui-icon-phone'></a><span></li>");
+				});
+
+				//			
+
+			}
+		})
+	}
+</script>

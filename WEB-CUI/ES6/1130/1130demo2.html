@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // if(true){
+    //     //TDZ(temporal dead zone)暂时性死区
+    //     //let 后声明 在前面引用的   都是死区会报错
+    //     //如果 完全没有声明   反而不会报错
+    //     //变量一定在声明后使用 不然一定报错
+    //     //TDZ 开始
+    //     tmp ="abc";
+    //     console.log(tmp);// ReferenceError
+    //     //TDZ结束
+    //     let tmp;
+    //     console.log(tmp);//undefined
+    //
+    //     tmp=123;
+    //     console.log(tmp);//123
+    // }
+
+
+    // function bar(x=y,y=2) {
+    //     return [x,y];
+    //     //报错 y后声明
+    // }
+    // bar()//报错
+
+    // function bar(y=2,x=y) {
+    //     return [x,y];
+    // }
+    // console.log(bar())//[2,2]
+    //
+    //
+
+
+
+    var x=x;
+    //不报错
+
+    let x=x;
+    //报错   未定义
+</script>
+</body>
+</html>

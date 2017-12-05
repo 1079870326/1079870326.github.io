@@ -1,0 +1,33 @@
+@media screen and (min-width: 300px) {
+    .content{
+        width: 1140px;
+        margin:0 auto;
+        padding:0 15px;
+    }
+    .logo-top{
+        height: 37px;
+        line-height: 37px;
+        background-color: #13293d;
+        color: #fff;
+        overflow: hidden;
+    }
+
+
+
+}
+
+@media screen and (min-width: 0px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .left{
+        float: left;
+    }
+    .right{
+        float: right;
+    }
+    .inline-block{
+        display: inline-block;
+    }
+}

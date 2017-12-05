@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>React.createClass</title>
+		<script src="https://cdn.bootcss.com/react/15.4.2/react.min.js"></script>
+		<script src="https://cdn.bootcss.com/react/15.4.2/react-dom.min.js"></script>
+		<script src="https://cdn.bootcss.com/babel-standalone/6.22.1/babel.min.js"></script>
+	</head>
+	<body>
+		<div id="root"></div>
+		<script type=text/babel>
+			//创建一个组建
+			var Bacon=React.createClass({
+				//所有组件类都必须拥有自己的render
+				//组建类的名字第一个字母必须大写
+				render:function(){
+					return(
+						//每个组件中只能有一个跟标签
+						<div>
+						    <h1>{this.props.title}</h1>
+						    <h2>特价{this.props.nr}</h2>
+						</div>
+						
+					)
+				}
+			})
+		    ReactDOM.render(
+		    	<div>
+		    	    <Bacon title="美丽人生" nr="美丽人生"     />
+		    	    <Bacon title="美丽人生" nr='美丽人生内容' />
+		    	    <Bacon title="美丽人生" nr='美丽人生内容' />
+		    	    <Bacon title="美丽人生" nr='美丽人生内容' />
+		    	    <Bacon title="美丽人生" nr='美丽人生内容' />
+		        </div>,
+		    	
+		    	document.getElementById('root')
+		    )
+        </script>
+	</body>
+</html>

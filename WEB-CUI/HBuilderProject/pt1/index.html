@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <title></title>
+    <script src="js/jquery-1.11.0.js"></script>
+    <script src="js/mui.min.js"></script>
+    <link href="css/mui.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="css/style.css" />
+    <style>
+    	.wz h4,.wz p{
+    		/*text-overflow:ellipsis;*/
+    		text-align: left;
+    		/*background: red;*/
+    		overflow: hidden;
+    		font-size: 16px;
+    		padding: 20px 20px;
+    		
+    		}
+    		
+        /*.box .wz .mui-media a img{
+        	max-width: 60px; height: 60px;
+        }*/
+    </style>
+</head>
+<body class="box1">
+<div id="tab" style="">
+    <img class="img" src="img/lb2.jpg" />
+    <img class="img" src="img/lb1.jpg" />
+    <img class="img" src="img/lb3.jpg" />
+</div>
+<!--
+	作者：1079870326@qq.com
+	时间：2017-10-31
+	描述：轮播图
+-->
+
+<ul class="mui-table-view mui-table-view-chevron wz">
+	
+</ul>
+<!--
+	作者：1079870326@qq.com
+	时间：2017-10-31
+	描述：文章
+-->
+
+
+
+
+
+<nav class="mui-bar mui-bar-tab over">
+	<a href="index.html">
+		<div>
+			<span style="padding:0;" class="mui-icon mui-icon-spinner mui-spin"></span>
+			<span>资讯</span>
+		</div>
+	</a>
+	<a href="2.html">
+		<div>
+			<span style="padding:0;" class="mui-icon mui-icon-spinner mui-spin"></span>
+			<span>资讯</span>
+		</div>
+	</a>
+	<a href="3.html">
+		<div>
+			<span style="padding:0;" class="mui-icon mui-icon-spinner mui-spin"></span>
+			<span>资讯</span>
+		</div>
+	</a>
+	<a href="4.html">
+		<div>
+			<span style="padding:0;" class="mui-icon mui-icon-spinner mui-spin"></span>
+			<span>资讯</span>
+		</div>
+	</a>
+	<a href="5.html">
+		<div>
+			<span style="padding:0;" class="mui-icon mui-icon-spinner mui-spin"></span>
+			<span>资讯</span>
+		</div>
+	</a>
+</nav>
+<!--
+	作者：1079870326@qq.com
+	时间：2017-11-02
+	描述：导航
+-->
+</body>
+	
+</body>
+<script>
+//	var a = ($(window).height());
+//	var b = a /10
+//
+	$(".wz").css({
+		"padding-bottom":50
+	});
+	
+	
+	
+	
+    window.onload = function(){
+
+        var images = document.getElementsByClassName('img');
+        var pos = 0;
+        var len = images.length;
+
+        setInterval(function(){
+
+            images[pos].style.display = 'none';
+            pos = ++pos == len ? 0 : pos;
+            images[pos].style.display = 'inline';
+
+        },2000);
+
+    };
+    
+    
+    $.ajax({
+    	url:"zx.json",
+    	success:function(wzz){
+    		$.each(wzz, function(index, content) {			
+					var a = content;
+					$(".wz").append("<li class='mui-table-view-cell mui-media'><a><img class=' mui-pull-left' src="+content.img+"/><p>"+content.bt+"</p></a></li>");
+//					<p>"+content.p1+"</p>
+				});
+    	}
+    })
+    
+    
+    
+
+</script>
+</html>

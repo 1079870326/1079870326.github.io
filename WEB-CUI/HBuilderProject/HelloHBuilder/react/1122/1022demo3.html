@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>React.createClass</title>
+		<script src="https://cdn.bootcss.com/react/15.4.2/react.min.js"></script>
+		<script src="https://cdn.bootcss.com/react/15.4.2/react-dom.min.js"></script>
+		<script src="https://cdn.bootcss.com/babel-standalone/6.22.1/babel.min.js"></script>
+	
+	</head>
+	<body>
+		<div id="root">
+			
+		</div>
+		<script type=text/babel>
+			//创建一个组建
+			var Board=React.createClass({
+				getInitialState:function(){
+					return({
+						comments:["hello everybody"," welcome to lanou课堂","大家好好大了圣诞节阿拉丁"]
+					})
+				},
+				eachComment:function(text,i){
+								return(
+									<Comment key={i}>{text}</Comment>
+								)
+						},
+				render:function(){
+					return (
+						<div>
+						{this.state.comments.map(this.eachComment)
+						}
+						</div>
+						
+					)
+				}
+			});
+			
+			
+			
+			var Comment=React.createClass({
+				getInitialState:function(){
+					return({editing:true})
+				},
+				//所有组件类都必须拥有自己的render
+				//组建类的名字第一个字母必须大写
+				edit:function(){
+					this.setState({editing:true})
+				},
+				save:function(){
+					var val=this.refs.newText.vaule
+					this.setState({editing:false})
+				},
+				
+				renderNo:function(){
+					return(
+						<div  className="border">
+						    <div>{this.props.children}</div>
+						    <button onClick={this.edit}>Edit</button>
+						    <button onClick={this.remove}>Remove</button>
+						</div>
+					)
+				},
+				renderYes:function(){
+					return(
+						<div  className="border">
+						    <textarea ref="newText" defaultValue={this.props.children}></textarea>
+						    <button onClick={this.save}>Save</button>
+						</div>
+					)
+				},
+				
+				render:function(){
+					if(this.state.editing){
+						return this.renderYes()
+					}else{
+						return this.renderNo()
+					}
+						
+						
+						
+					
+				}
+			});
+		    ReactDOM.render(
+		    	<Board />,
+		    	
+		    	document.getElementById('root')
+		    )
+        </script>
+	</body>
+</html>
+                   

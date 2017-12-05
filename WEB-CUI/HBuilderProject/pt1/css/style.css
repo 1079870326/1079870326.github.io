@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*overflow: hidden;*/
+}
+html { overflow:-moz-scrollbars-vertical; }
+li{
+    list-style: none;
+}
+a{
+    text-align: center;
+}
+html,body{
+    width:100%;
+    height: 100%;
+    background: #FFFFFF;
+    
+}
+.over{
+	overflow: hidden;
+}
+p{
+	text-align: center;
+}
+#tab img{
+    width:100%;
+}
+#tab{
+    overflow: hidden;
+}
+#tab img:nth-child(2),#tab img:nth-child(3){
+    display: none;
+}
+nav{
+    width:100%;
+    height: 10%;
+    position: fixed;
+    bottom: 0;
+    
+}
+nav a{
+    width:20%;
+    height: 100%;
+    float: left;
+    border-right: 1px red solid;
+    line-height: 100%;    
+}
+    	
+nav span {
+	font-size: 10px;
+	display: block;
+}
+nav div:nth-child(1){
+	border-left: 1px red solid;;
+}
+nav div{
+    font-size: 50px;
+}
+
+
+
+/*第二页*/
+.box2 .fw .mui-row div{
+	border:1px solid #efeff4;
+	padding-top:5% ;
+	overflow: hidden;
+}
+.box2 .fw .mui-row div img{
+	display: block;
+	margin: auto;
+	width: 90%;
+}
+
+/*第三页*/
+.box3 .logo{
+	width:100%;
+	height: 20%;
+	padding:10px 20px 20px 20px;
+	
+}
+.box3 .logo img{
+	width:30%;
+	margin: 0 auto;
+	display: block;
+}
+
+.box3 .mui-input-group button{
+	width:80%;
+	margin: 1% 10%;
+	display: block;
+}
+
+
+
+
+
+
+
+/*第五页*/
+.box5 .logo {
+	width:100%;
+	
+}
+.box5 .logo img{
+	display: block;
+	width:50%;
+	margin: 0 auto;
+	
+	
+}
+.box5 .mui-input-row button{
+	width:80%;
+	margin: 5% 10%;
+	display: block;
+}
+.box5 .text{
+	margin: 0 auto;
+	width: 100%;
+}
+.box5 .text a{
+	display: block;
+	margin: 5% auto;
+	
+	
+}
+i{
+	width: 50%;
+	height: 50%;
+	display: block;
+	margin: auto;
+}
+
+

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>后台管理中心</title>
+    <link rel="stylesheet" href="cssht/style.css">
+</head>
+<body>
+<div class="boxht">
+    <div class="logo">
+
+        <div class="logo-left left">后台管理中心</div>
+        <div class="logo-admin right">
+            <div class="admin">admin</div>
+        </div>
+    </div>
+    <div class="main">
+        <div class="nav-left left">
+            <ul>
+                <li class="list1">
+                    设置
+                    <ul>
+                        <li class="list2">修改信息</li>
+                        <li class="list2">修改密码</li>
+                    </ul>
+                </li>
+                <li class="list1">
+                    课程系统
+                    <ul>
+                        <li class="list2">分类管理</li>
+                        <li class="list2">课程管理</li>
+                        <li class="list2">课时管理</li>
+                        <li class="list2">标签管理</li>
+                    </ul>
+                </li>
+                <li class="list1">
+                    订单管理
+                    <ul>
+                        <li class="list2">订单列表</li>
+                    </ul>
+                </li>
+                <li class="list1">
+                    考试系统
+                    <ul>
+                        <li class="list2">试题管理</li>
+                        <li class="list2">试卷管理</li>
+                    </ul>
+                </li>
+                <li class="list1">
+                    用户管理
+                    <ul>
+                        <li class="list2">学员管理</li>
+                        <li class="list2">教师管理</li>
+                        <li class="list2">
+                            管理组
+                            <ul>
+                                <li class="list3">角色管理</li>
+                                <li class="list3">管理员</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="list1">
+                    文章管理
+                    <ul>
+                        <li class="list2">文章管理</li>
+                        <li class="list2">分类管理</li>
+                        <li class="list2">页面管理</li>
+                        <li class="list2">
+                            回收站
+                            <ul>
+                                <li class="list3">文章回收</li>
+                                <li class="list3">页面回收</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="list1">
+                    菜单管理
+                    <ul>
+                        <li  class="list2">
+                            前台菜单
+                            <ul>
+                                <li class="list3">菜单管理</li>
+                                <li class="list3">菜单分类</li>
+                            </ul>
+                        </li>
+                        <li class="list2">后台菜单</li>
+                    </ul>
+                </li>
+                <li class="list1">
+                    扩展工具
+                    <ul>
+                        <li  class="list2">
+                            备份管理
+                            <ul>
+                                <li class="list3">数据还原</li>
+                                <li class="list3">数据备份</li>
+                            </ul>
+                        </li>
+                        <li  class="list2">友情链接</li>
+                        <li class="list2">
+                            幻灯片
+                            <ul>
+                                <li class="list3">幻灯片管理</li>
+                                <li class="list3">幻灯片分类</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="main-right">
+            <div class="section">
+                <div class="section-nav">
+                    首页乱七八糟
+                </div>
+                <div class="section-bottom">
+                	可替换内容
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
+<script src="../js/jquery/jquery.min.js"></script>
+<script src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script>
+<script>
+    $('.list1').bind('click',function(){
+        $(this).find(".list2").slideToggle();
+        $(this).siblings('.list1').find('.list2').slideUp();
+    });
+    $('.list2').bind('click',function(){
+        $(this).find(".list3").slideToggle();
+        $(this).siblings('.list2').find('.list3').slideUp();
+//        return false;//也可以通过return false 阻止冒泡
+        if(window.event){//IE下阻止冒泡
+            event.cancelBubble  = true;
+        }else{
+            event.stopPropagation();
+        }
+    });
+    $('.list3').bind('click',function(){
+//      $.ajax({
+//          url:"json/1.1json",
+//          success: function(wz) {
+//
+//              $.each(wz, function(index, content) {
+//                  //
+//                  var a = content;
+//                  $(".dh").append("<li class='mui-table-view-cell'; ><span>" + content.name + "</span><span><a href=" + content.dx + " class='mui-icon mui-icon-chatboxes'></a><a href=" + content.tel + " class='mui-icon mui-icon-phone'></a><span></li>");
+//              });
+//
+//              //
+//
+//          }
+//      })
+//        return false;//也可以通过return false 阻止冒泡
+        if(window.event){//IE下阻止冒泡
+            event.cancelBubble  = true;
+        }else{
+            event.stopPropagation();
+        }
+    });
+
+
+
+
+
+
+</script>

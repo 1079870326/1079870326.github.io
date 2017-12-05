@@ -1,0 +1,46 @@
+
+	.mui-serch {
+		margin-bottom: ;
+	}
+	
+	.mui-search {
+		clear: none;
+	}
+	
+	.mui-content>.mui-row {
+		margin: -15px;
+	}
+	
+	.wzsh {
+		height: 100%;
+	}
+	
+	.mui-contet {
+		height: 94%;
+		overflow: hidden;
+	}
+	
+	html {
+		overflow-x: hidden;
+	}
+	
+	.mui-col-xs-4 {
+		overflow: scroll;
+	}
+	
+	li span:nth-child(1) {
+		float: left;
+	}
+	
+	li span:nth-child(2) {
+		float: right;
+	}
+	
+	li span a {
+		margin: 0 5px;
+	}
+	
+	.mui-table-view {
+		overflow-y: auto;
+	}
+

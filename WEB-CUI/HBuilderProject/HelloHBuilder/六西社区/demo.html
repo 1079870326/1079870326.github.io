@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style type="text/css">
+		
+		.f{width: 100px;
+		height: 100px;
+		background: #eee;
+		position: absolute;
+		margin: auto;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		}
+		.f1{
+		width: 50px;
+		height: 30px;
+		background: red;
+		margin: 50px auto;
+		border-radius: 50%;
+		position: relative;
+		}
+		.f2 {
+width: 30px;
+    height: 50px;
+    background: #333;
+    position: absolute;
+    bottom: 7px;
+    left: 10px;
+    color: #fff;
+    font-size: 10px;
+    animation: myfirst 0.2s infinite alternate;
+		}
+		@keyframes myfirst {
+			from {
+				height: 20px;
+			}
+			
+			to {
+				height: 50px;
+			}
+		}
+	    </style>
+
+	</head>
+	<body>
+	
+	<div class="div">
+	<div class="div2"></div>
+	</div>
+	<div class="f">
+	<div class="f1">
+	<div class="f2">
+	<span>点我
+	</span>
+	
+	</div>
+	</div>
+	</div>
+	</body>
+</html>
+<script src="js/jquery-1.11.0.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".item").click(function(){
+			$(this).find(".UL2").slideToggle();
+			$(this).siblings('.item').find('.UL2').slideUp();
+		});
+	});
+	
+</script>
+

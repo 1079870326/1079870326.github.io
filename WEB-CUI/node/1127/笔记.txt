@@ -1,0 +1,39 @@
+﻿如何使用node.js
+cmd 输入F:
+cd **目录
+node  ***.js
+
+node.js 是一个基于模块化的方式对代码进行组织和管理。
+采用的模块化规范是commonjs
+    function (exports,require,module,_filename,_dirname) {
+        //用户编写代码
+        exports  暴露，由于nodejs是基于模块化管理，所有用户编写的代码都是局部的，要与其他模块共享数据就需要暴露
+        require  加载模块（引入）
+        module    模块对象
+                module.exports  //这才是真正的暴露对象
+
+
+        __filename 文件名
+        __dirname   文件路径
+    }
+
+    将所有用户编写的代码放入一个函数中执行，所有变量、函数都是局部的
+
+
+    require 引入模块
+            1.自定义模块
+                  自己写的文件就是一个自定义模块
+
+            2.第三方模块
+                  别人写的
+                  npm install   包的名字
+
+            3.系统模块
+                  fs http
+
+
+
+
+
+
+

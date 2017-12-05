@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> </title>
+    <script src="vue.min.js"></script>
+</head>
+<body>
+
+ <!--<div class="demo">{{msg}}</div>-->
+ <div class="demo" v-html="msg"></div>
+
+
+ <script>
+    var app= new Vue({
+         el:'.demo',
+         data:{
+             msg:'<img src=images/03.jpg'
+         }
+     })
+ </script>
+
+</body>
+</html>

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>React.createClass</title>
+    <script src="https://cdn.bootcss.com/react/15.4.2/react.min.js"></script>
+    <script src="https://cdn.bootcss.com/react/15.4.2/react-dom.min.js"></script>
+    <script src="https://cdn.bootcss.com/babel-standalone/6.22.1/babel.min.js"></script>
+
+</head>
+<body>
+<div id="root">
+
+</div>
+<script type=text/babel>
+    //创建一个组建
+    var Board=React.createClass({
+        getInitialState:function(){
+            return({
+                comments:["1111","2222","3333"]
+            })
+        },
+        updateComment:function (newText,i) {
+            console.log(newText)
+            var arr=this.state.comments;
+            arr[i]=newText;
+            //更新状态
+            this.setState({comment:arr})
+        },
+        removeComment:function (i) {
+            console.log(i)
+            var arr=this.state.comments;
+            arr.splice(i,1)
+            //更新状态
+            this.setState({comments:arr})
+        },
+        eachComment:function(text,i){
+            return(
+                    <Comment deleteFromBoard={this.removeComment} updateCommentText={this.updateComment} key={i} index={i}>{text}</Comment>
+
+            )
+        },
+        add:function (text) {
+            var arr=this.state.comments;
+            arr.push(text)
+            //更新状态
+            this.setState({comments:arr})
+        },
+        render:function(){
+            return (
+                    <div>
+                        <button onClick={this.add.bind(null,"Default text")}>Add New</button>
+                        <div>
+                            {
+                                this.state.comments.map(this.eachComment)
+                            }
+                        </div>
+                    </div>
+            )
+        }
+
+
+    });
+
+
+
+    var Comment=React.createClass({
+        getInitialState:function(){
+            return({editing:false})
+        },
+        //所有组件类都必须拥有自己的render
+        //组建类的名字第一个字母必须大写
+        edit:function(){
+            this.setState({editing:true})
+        },
+        remove:function () {
+            alert("removing comment!");
+            this.props.deleteFromBoard(this.props.index);
+        },
+        save:function(){
+            var val=this.refs.newText.value;
+            //console.log("拿到的值"+val)
+            this.props.updateCommentText(val,this.props.index)
+            this.setState({editing:false})
+        },
+
+
+        renderNo:function(){
+            return(
+                    <div  className="border">
+                        <div>{this.props.children}</div>
+                        <button onClick={this.edit}>Edit</button>
+                        <button onClick={this.remove}>Remove</button>
+                    </div>
+            )
+        },
+        renderYes:function(){
+            return(
+                    <div className="border">
+                        <textarea ref='newText' defaultValue={this.props.children}></textarea>
+                        <button onClick={this.save}>Save</button>
+                    </div>
+            )
+        },
+
+        render:function(){
+            if(this.state.editing){
+                return this.renderYes()
+            }else{
+                return this.renderNo()
+            }
+
+        }
+    });
+    ReactDOM.render(
+            <Board />,
+
+        document.getElementById('root')
+    )
+</script>
+</body>
+</html>

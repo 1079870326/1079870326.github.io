@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		
+		<title></title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<!---->
+		<link rel="stylesheet" href="css/wzsh.css" />
+		<script src="js/jquery-1.11.0.js"></script>
+	    <style>
+	    	#a{
+	    		width: 100px;
+	    		height: 100px;
+	    		overflow: hidden;
+	    	}
+	    	#a div{
+	    		width: 100px;
+	    		height: 100px;
+	    	}
+	    	.a{
+	    		background: red;
+	    	}
+	    	.b{
+	    		background: yellow;
+	    	}
+	    </style>
+	</head>
+	<body>
+	      <div id=a>
+	      	<div class="a"></div>
+	      	<div class="b"></div>
+	      </div>
+	</body>
+</html>
+<script>
+    var obj = {"name":"11","name":"22"},count = 0;
+     
+    for(var a in obj){
+        if(obj[a]){
+            count++;   
+        }   
+    }
+     
+    alert('数据有'+count+'条')
+</script>
+

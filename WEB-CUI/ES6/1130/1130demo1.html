@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+	// for(let i=0;i<3;i++){
+	// 	let i="abc";
+	// 	console.log(i)
+     //    //abc
+     //    //abc
+     //    //abc
+     //    //运行正确 输出三次abc 内部变量跟外部循环变量 不在同一个作用域，有各自单独的作用域
+	// }
+
+    //var 情况
+	console.log(foo);
+	var foo=2;
+	//输出undefined
+
+
+    //let 情况
+	console.log(bar);
+	let bar =2;
+    //报错 Uncaught ReferenceError: bar is not defined
+
+
+
+
+
+
+
+/*
+    var tmp=123;
+    if(true){
+        tmp="abc";//ReferenceError:
+        let tmp;
+    }
+*/
+
+
+
+
+</script>
+</body>
+</html>

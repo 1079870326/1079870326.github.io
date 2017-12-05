@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Vue 测试实例 - 菜鸟教程(runoob.com)</title>
+    <script src="vue.min.js"></script>
+</head>
+<body>
+
+<div id="app">
+    <p>{{ message }}</p>
+</div>
+<div id="day">
+    <h1>今年是{{year}}年{{month}}月</h1>
+</div>
+<script>
+    new Vue({
+        el:'#day',
+        data:{
+            year:  new Date().getFullYear(),
+            month:new Date().getMonth()+1
+        }
+    });
+</script>
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            message: 'Hello Vue.js!'
+        }
+    })
+</script>
+</body>
+</html>

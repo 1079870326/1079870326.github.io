@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>React.createClass</title>
+		<script src="https://cdn.bootcss.com/react/15.4.2/react.min.js"></script>
+		<script src="https://cdn.bootcss.com/react/15.4.2/react-dom.min.js"></script>
+		<script src="https://cdn.bootcss.com/babel-standalone/6.22.1/babel.min.js"></script>
+	
+	</head>
+	<body>
+		<div id="root"></div>
+		<script type=text/babel>
+			//创建一个组建
+			var Comment=React.createClass({
+				//所有组件类都必须拥有自己的render
+				//组建类的名字第一个字母必须大写
+				edit:function(){
+					alert("dadada")
+				},
+				remove:function(){
+					alert("dadada")
+				},
+				render:function(){
+					return(
+						//每个组件中只能有一个跟标签
+						<div  className="border">
+						    <div>{this.props.children}</div>
+						    <button onClick={this.edit}>Edit</button>
+						    <button onClick={this.remove}>Remove</button>
+						</div>
+						
+					)
+				}
+			})
+		    ReactDOM.render(
+		    	<div>
+		    	    <Comment>Hello Everybody!</Comment>
+		    	    <Comment>Welcome to Lanou课堂</Comment>
+		    	    <Comment>希望大家能够快速掌握React.js</Comment>
+		    	    <Comment>Hello Everybody!</Comment>
+	    	    
+		        </div>,
+		    	
+		    	document.getElementById('root')
+		    )
+        </script>
+	</body>
+</html>
+                   
