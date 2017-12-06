@@ -1,7 +1,11 @@
-html,body,.boxht{
+html,body,.boxht,li{
     margin: 0;
     padding: 0;
     height: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
 }
 li{
     list-style: none;
@@ -25,7 +29,6 @@ li{
 }
 .main{
     width: 100%;
-    min-height: 95%;
     background: #888;
     overflow: hidden;
 }
@@ -46,9 +49,17 @@ li{
     background: #fff;
     overflow: hidden;
 }
+.list1{
+    padding: 5px 20px;
+    border-top: 1px solid #fcfcfc;
+    border-bottom: 1px solid #e5e5e5;
+    font-size: 14px;
+    color: #585858;
+}
 .list2,.list3{
-    display: none;    
-    margin-left: -30px;
+    display: none;
+    margin-left: 15px;
+    padding: 3px 2px;
 }
 .section-bottom{
 	width: 100%;
@@ -56,4 +67,6 @@ li{
 	
 	background:red
 }
+
+
 

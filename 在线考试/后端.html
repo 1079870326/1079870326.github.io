@@ -129,12 +129,33 @@
 <script src="../js/jquery/jquery.min.js"></script>
 <script src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script>
 <script>
+
+    var a = ($(window).height());
+    var b = a - 45
+
+    $(".main").css({
+        "height": b
+    });
+
+    var elem = document.getElementsByClassName('list1');
+    elem.onselectstart = function () {
+        return false;
+    };
+    //禁止选中    但是不知道为啥没有起作用
+
     $('.list1').bind('click',function(){
-        $(this).find(".list2").slideToggle();
+        if(length>2){
+            $(".list1").css("Color","#fff")
+            console.log(111)
+        }
+        $(this).find(".list2").slideToggle(100);
+        //      遍历           对被选元素进行滑动隐藏和滑动显示的切换
         $(this).siblings('.list1').find('.list2').slideUp();
+        $(".list1").css("Color","#fff")
+        //      遍历同胞           遍历           通过调整高度隐藏
     });
     $('.list2').bind('click',function(){
-        $(this).find(".list3").slideToggle();
+        $(this).find(".list3").slideToggle(100);
         $(this).siblings('.list2').find('.list3').slideUp();
 //        return false;//也可以通过return false 阻止冒泡
         if(window.event){//IE下阻止冒泡
@@ -172,3 +193,4 @@
 
 
 </script>
+
