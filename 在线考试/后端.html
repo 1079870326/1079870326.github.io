@@ -7,9 +7,7 @@
     <script src="js/jquery-3.2.1.js"></script>
 </head>
 <body>
-<div id="Signin">
 
-</div>
 <div class="boxht">
     <div class="logo">
 
@@ -160,15 +158,19 @@
         //     $(".list1").css("Color","#fff")
         //     console.log(111)
         // }
-        $(".section-bottom").load("thml/001.html");
+
+
+        // $(".section-bottom").load("thml/001.html");//引用html
+
+
         $(this).find(".list2").slideToggle(200);
         //      遍历           对被选元素进行滑动隐藏和滑动显示的切换
         $(this).siblings('.list1').find('.list2').slideUp();
-        $(".list1").css("Color","#fff")
+        // $(".list1").css("Color","#fff")
         //      遍历同胞           遍历           通过调整高度隐藏
     });
     $('.list2').bind('click',function(){
-        $(".section-bottom").load("thml/002.html");
+        // $(".section-bottom").load("thml/002.html");//引用html
         $(this).find(".list3").slideToggle(200);
         $(this).siblings('.list2').find('.list3').slideUp();
 //        return false;//也可以通过return false 阻止冒泡
