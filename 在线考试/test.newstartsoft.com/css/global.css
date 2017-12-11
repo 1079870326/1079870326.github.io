@@ -1,0 +1,68 @@
+﻿p, h1, h2, h3, h4, h5, ul, li, dl, dt, dd, img, ol, span, iframe { margin: 0; padding: 0; border: 0; list-style: none; }
+textarea { resize: vertical; font-family: "Microsoft YaHei"; }
+body, legend, input { margin: 0; padding: 0; font: 14px/24px "Microsoft YaHei"; color: #333333; }
+.clear { clear: both; float: none !important; }
+#pageContainer a { color: #2375BE; text-decoration: none; transition: all 0.1s ease-in-out 0s; }
+#pageContainer a:hover { color: #0664B0; text-decoration: underline; transition: all 0.1s ease-in-out 0s; }
+#pageContainer { background-color: #fefefe; width: 900px; min-width: 880px; max-width: 1200px; margin: 0 auto; background-color: White; padding: 30px 20px; box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3); }
+#contactWeContainer { zoom: 1; width: 120px; overflow: hidden; position: fixed; _position: absolute; right: 0; top: 10%; z-index: 999; }
+#contactWeContainer a:hover { text-decoration: none; }
+#contactWeContainer * { font-size: 9pt; }
+#ct_Link { line-height: 20px; float: right; display: block; width: 20px; text-align: center; border-radius: 4px 0 0 4px; background-color: #1BA1E2; padding: 5px 2px; color: White; position: relative; top: 60px; }
+#contactContext { position: relative; }
+.contactWe { float: right; zoom: 1; width: 97px; overflow: hidden; opacity: 1; white-space: nowrap; }
+.contactWe a { color: #00a0e9; }
+.contactWe img { margin-bottom: 0; }
+.contactWe a:hover { color: #FF8100; }
+.contactWe ul { background-color: White; border: 5px solid #1BA1E2; padding: 5px 2px; text-align: center; border-bottom: none; margin-bottom:0}
+.contactWe li { border-bottom: 1px solid #CCC;/* padding-top: 6px;*/padding:3px 0; }
+.ct_Title { color: #40b8ef; border-bottom: 1px solid #ace5f9 !important; font-size: 9pt; letter-spacing: 2px; font-size: 10pt !important; }
+#phone { color: Red; }
+#applyTryout { border-bottom: 5px solid #1BA1E2; }
+.ct_Last { border-bottom: none !important; }
+#userForm { padding: 0 10px 5px 20px; background: url("../images/kefu_bg.gif"); box-shadow: 0 0 10px 0 #555; display: none; position: fixed; _position: absolute; top: 35%; left: 35%; z-index: 6; background-color: #FAFAFA; border-radius: 4px; width: 460px; overflow: hidden; }
+#userForm input { border: 1px solid #CCC; line-height: 25px; height: 25px; width: 200px; border-radius: 2px; padding: 0 5px; }
+.uf_Img { float: right; background: url("../images/kefu_btn.png") no-repeat 0 -120px; width: 130px; height: 130px; background-color: transparent;  margin-right:10px;  margin-top:-10px;}
+.uf_Container { float: left; padding: 0 10px 20px 0; }
+.uf_Container span { font-size: 11pt; }
+.uf_Container li { padding: 5px 0; color: #79777a; }
+.uf_Title { margin: 0 !important; padding-bottom: 10px; }
+.uf_Title h2 { float: left; font-size: 14pt; color: #79777a; padding-top: 15px; font-weight:900; }
+.uf_Special { padding: 0 22px; }
+.uf_Title span { color: #5fba7d; }
+#uf_Close { float: right; background: url("../images/kefu_btn.png") no-repeat -2px -96px; padding: 12px 20px; }
+#uf_Close:hover { background-position: -2px -72px; }
+#promptData { color: Red; padding-left: 5px; }
+.uf_Sub { margin-top: 5px; }
+#uf_Submit { background: url("../images/kefu_btn.png") no-repeat -1px -2px; padding: 7px 23px; color: #666; text-decoration: none; letter-spacing: 1px; }
+#uf_Submit:hover { background-position: -1px -37px; }
+.uf_Prompt { color: #969696; font-size: 9pt; }
+.uf_Prompt span { color: Red; padding: 0 2px; }
+#masking { display: none; z-index: 5; width: 100%; height: 100%; background-color: Black; filter: alpha(opacity=40); -moz-opacity: 0.4; opacity: 0.4; _position: absolute; top: 0px; left: 0px; position: fixed; }
+
+.Experience{ width:940px; top:10%; left:50%;background-color: #fff; margin-left:-470px; border:5px #7ec058 solid; font-family:微软雅黑; color:#898989; position: fixed; box-shadow: 1px 5px 5px #ccc; z-index:999; display:none;}
+.Experience_top{ width:100%; background:url(../images/tiyan_top.gif); height:64px;}
+.Experience_close{ float:right; width:40px; height:26px; background-color:#ff8b8b; margin-right:10px; text-align:center; line-height:26px; color:#FFFFFF; cursor:pointer;}
+.Experience_close:hover{background-color:red;}
+.Experience_phone{ float:right; margin-top:35px;}
+.Experience_phone strong{ color:#FF0000;}
+.Experience h2{ background-color:#7ec058; color:#FFFFFF; margin:0 10px; padding:5px; font-size:18px; font-weight:200;}
+
+.Experience_ul{ margin-left:18px; margin-bottom:10px;}
+.Experience_ul li{ height:63px; width:0; float:left; font-size:12px; margin-top:10px; opacity: 0; filter:alpha(opacity=0); -moz-opacity:0;  
+-khtml-opacity: 0; }
+.Experience_ul li span{ display:block; width:63px; height:63px; float:left; margin-right:10px; background-image:url(../images/ico.png);}
+.Experience_ul li #Experience_ul_li2{ background-position:0 -70px;}
+.Experience_ul li #Experience_ul_li3{ background-position:0 -139px;}
+.Experience_ul li #Experience_ul_li4{ background-position:0 -209px;}
+.Experience_ul li #Experience_ul_li5{ background-position:0 -282px;}
+.Experience_ul li #Experience_ul_li6{ background-position:0 -355px;}
+.Experience_ul li #Experience_ul_li7{ background-position:0 -427px;}
+.Experience_ul li #Experience_ul_li8{ background-position:0 -500px;}
+.Experience_ul li #Experience_ul_li9{ background-position:-82px 0;}
+.Experience_ul li #Experience_ul_li10{ background-position:-82px -70px;}
+.Experience_ul li #Experience_ul_li11{ background-position:right 0;}
+.Experience_ul li #Experience_ul_li12{ background-position:right -70px;}
+.Experience_ul li #Experience_ul_li13{ background-position:right -139px;}
+#hover_bg{ position:absolute; top:-500px; left:-10px; background-color:#eaffde; border:2px #7ec058 ht .pos_1{position:absolute;top:0;left:560px;}
+

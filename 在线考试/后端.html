@@ -3,9 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>后台管理中心</title>
-    <link rel="stylesheet" href="cssht/style.css">
+    <link rel="stylesheet" href="cssht/htstyle.css">
+    <script src="js/jquery-3.2.1.js"></script>
 </head>
 <body>
+<div id="Signin">
+
+</div>
 <div class="boxht">
     <div class="logo">
 
@@ -103,7 +107,7 @@
                             幻灯片
                             <ul>
                                 <li class="list3">幻灯片管理</li>
-                                <li class="list3">幻灯片分类</li>
+                                <li class="list3" id="list3">幻灯片分类</li>
                             </ul>
                         </li>
                     </ul>
@@ -113,7 +117,7 @@
         <div class="main-right">
             <div class="section">
                 <div class="section-nav">
-                    首页乱七八糟
+                    课程、订单、考试
                 </div>
                 <div class="section-bottom">
                 	可替换内容
@@ -126,16 +130,24 @@
 
 </body>
 </html>
-<script src="../js/jquery/jquery.min.js"></script>
-<script src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script>
+<!--<script src="../js/jquery/jquery.min.js"></script>-->
+
 <script>
 
     var a = ($(window).height());
     var b = a - 45
 
+
     $(".main").css({
         "height": b
     });
+    $(".main-right").css({
+        "height": b-40
+    });
+    $(".section-bottom").css({
+        "height": b-100
+    });
+
 
     var elem = document.getElementsByClassName('list1');
     elem.onselectstart = function () {
@@ -144,18 +156,20 @@
     //禁止选中    但是不知道为啥没有起作用
 
     $('.list1').bind('click',function(){
-        if(length>2){
-            $(".list1").css("Color","#fff")
-            console.log(111)
-        }
-        $(this).find(".list2").slideToggle(100);
+        // if(length>2){
+        //     $(".list1").css("Color","#fff")
+        //     console.log(111)
+        // }
+        $(".section-bottom").load("thml/001.html");
+        $(this).find(".list2").slideToggle(200);
         //      遍历           对被选元素进行滑动隐藏和滑动显示的切换
         $(this).siblings('.list1').find('.list2').slideUp();
         $(".list1").css("Color","#fff")
         //      遍历同胞           遍历           通过调整高度隐藏
     });
     $('.list2').bind('click',function(){
-        $(this).find(".list3").slideToggle(100);
+        $(".section-bottom").load("thml/002.html");
+        $(this).find(".list3").slideToggle(200);
         $(this).siblings('.list2').find('.list3').slideUp();
 //        return false;//也可以通过return false 阻止冒泡
         if(window.event){//IE下阻止冒泡

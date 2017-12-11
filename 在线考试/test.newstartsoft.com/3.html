@@ -1,0 +1,707 @@
+﻿
+<!DOCTYPE html>
+<head>
+    <title>在线考试系统-新启科技</title>
+    <meta name="description" content=" 新启在线考试系统是目前市场上最专业的远程网络考试系统，适合政府、 学校及企业的各种形式在线考试、竞赛、练习等应用，全面实现了考试工作的网络化、无纸化、自动化。该系统采用新一代纯B/S架构，用于INTERNET和局域网在线考试，可以承载大规模在线考试的需求，而且对服务器的配置要求非常低，客户端不用任何设置。通过强i大的后台设置功能，用户可以根据自身需要设定考试功能，几乎能满足企业、政府机构、教育单位的所有需求。" />
+    <meta name="Keywords" content="在线考试系统,培训考试系统,考试系统研发" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+    <meta name="renderer" content="webkit" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="/favicon.ico" rel="shortcut icon" />
+    <link href="css/mysite_1.css" rel="stylesheet" type="text/css" />
+    <link href="css/global_1.css" rel="stylesheet" type="text/css" />
+    <link href="css/iconfont_3.css" rel="stylesheet" type="text/css" />
+    <link href="css/bootstrap.min_3.css" rel="stylesheet" type="text/css" />
+    <link href="css/animation_1.css" rel="stylesheet" type="text/css" />
+    <link rel="miphtml" href="http://m.newstartsoft.com/index.html">
+
+    <link href="css/style_yuan_2.css" rel="stylesheet" type="text/css" />
+    <script src="js/jquery-1.8.2.min_1.js" type="text/javascript"></script>
+    <style type="text/css">
+    .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{background-color: transparent;color: #555;    font-size: 1.6rem;}
+        .centerText{display:none}
+        .app_header .open .dropdown-menu>li>a{color:#fff!important}
+        .navbar-default{background-color:#fff}
+        /*.navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>.open>a:focus,.navbar-default .navbar-nav>.open>a:hover{background-color:#dd691d;color:#fff}
+        .nav .open>a,.nav .open>a:focus,.nav .open>a:hover{background-color:rgba(0,0,0,0);color:#000}*/
+        .app_header ul{padding-top:0}.navbar-header{border:0}
+        .navbar-default .navbar-collapse,.navbar-default .navbar-form{border:0}
+        .dropdown-menu{margin:0}
+        .nav ul li {padding-left: 0 !important;}
+		.nav ul { padding: 5px 0 !important;}
+		
+        .navbar-collapse.navfr.collapse.in{border:0}
+        .navbar-default .navbar-nav>li>a{line-height:50px}
+		.app_header .open .dropdown-menu>li>a{line-height:50px;}
+		.app_header{margin:0 -15px;}
+		.dropdown{float: left;padding: 24px 0;font-size:1.4rem;}
+ .dropdown a:hover{background-color: #e8e9ef}
+.dropdown a{color:#666;text-decoration: none;padding: 5px 16px;border-radius: 5px;    font-size: 1.4rem;}
+    .dropdown-submenu {position: relative;}  
+    .dropdown-menu{box-shadow: 1px 1px 10px 1px #999;background:#fff;color:#333;border:0; font-size:16px;min-width: auto}
+    .dropdown-menu>li>a{line-height:2;color:#333;padding:2px 20px;    font-size: 1.6rem;}
+    .dropdown-submenu > .dropdown-menu {top: 0; left: 100%; margin-top: -6px; margin-left: 0px; -webkit-border-radius: 0 6px 6px 6px; -moz-border-radius: 0 6px 6px; border-radius: 0 6px 6px 6px; padding-left:5px; }  
+    .dropdown-submenu:hover > .dropdown-menu {display: block; }
+    .dropdown-submenu > a:after {display: block; content: " "; float: right; width: 0; height: 0; border-color: transparent; border-style: solid; border-width: 5px 0 5px 5px; border-left-color: #666; margin-top: 10px; margin-right: -10px; }
+    .dropdown-submenu:hover > a:after {border-left-color: #666; }
+    .dropdown-submenu.pull-left {float: none; }
+    .dropdown-submenu.pull-left > .dropdown-menu {left: -100%; margin-left: 10px; -webkit-border-radius: 6px 0 6px 6px; -moz-border-radius: 6px 0 6px 6px; border-radius: 6px 0 6px 6px;}
+    .welcome{line-height:28px;margin:0;float:left;font-size:12px;}
+    .welcomekulj{float:right;line-height:28px;color:#fff;}
+    .welcomekulj a{    color: #fff;margin: 0 6px;font-size:12px;}
+    .dropdown:hover> .dropdown-menu{display:block}
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-fixed-top navbar-default" role="navigation" style=" height:100px; background-color:#fff;">
+        <div class="container-full " style="height:30px; background-color:#626366">
+            <div class="container">
+                <p class="welcome">欢迎光临，新启科技</p>
+                <div class="welcomekulj">
+               
+                 <a href="/Html/Successful.html" target="_blank">案例</a>
+                <a href="/Html/fukuan.html" target="_blank">付款方式</a><a href="/Html/Contact.html" target="_blank">联系我们</a><a href="http://www.it-guwen.com/" target="_blank">软件学院</a><a><i class=""></i>电话（010）59497600</a></div>
+                <div class="clear"></div>
+            </div>
+            
+        </div>
+        <div class="container ">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example-navbar-collapse">
+                    <span class="sr-only">切换导航</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://www.newstartsoft.com/" style="background-color:transparent; transition: all 0.3s ease 0s; height: 68px;padding: 10px 15px;"><img src="picture/main_logo_1.png" class="img-responsive " height="149" height="40" style="float:left;border-right:1px solid #ddd;height:40px;margin-top:8px;padding-right:10px;margin-right:10px;">
+  <img src="picture/logo_1.png" width="193.5"  height="33" class="img-responsive hidden-sm hidden-xs" style="float:left;height:33px;margin-top:10px"></a> </div>
+
+            <div class="collapse navbar-collapse navfr height " id="example-navbar-collapse">
+                <ul class="nav navbar-nav  caidan" >
+               <li> <div class="dropdown">  
+            <a  role="button" data-target="#"  
+               href="http://www.newstartsoft.com">首页</a>  
+               </div></li> <li >
+                    <div class="dropdown">  
+             <a href="http://www.newstartsoft.com/Products" >单企业版</a>
+            <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
+                <li><a href="/Products/xuexi">在线培训系统</a></li>  
+                <li><a href="/Products/kaoshi">在线考试系统</a></li> 
+                <li><a href="http://live.newstartsoft.com">网络直播系统</a></li> 
+                <li><a href="/Home/peixun">网校运营系统</a></li> 
+                <li><a href="/html/Question.html">题库学习系统</a></li>
+                <li><a href="/html/app.html">移动学习APP</a></li>
+                <li class="dropdown-submenu">  
+                    <a tabindex="-1" href="javascript:;">辅助功能模块</a>  
+                    <ul class="dropdown-menu">  
+                        <li><a tabindex="-1" href="/Html/cstool.html">课件开发工具</a></li>
+                        <li><a tabindex="-1" href="/Html/Community.html">学习问答社区</a></li>
+                        <li><a tabindex="-1" href="javascript:;">证书管理系统</a></li>
+                        <li><a tabindex="-1" href="/Home/Page?key=37a9a60e-ecfd-4c26-bd0e-c0478aeb8ad0">竞赛管理系统</a></li>
+                        <li><a tabindex="-1" href="/Home/Page?key=a2870b48-3085-4787-9333-a89d8aa2ee2e">上传评阅系统</a></li>
+                    </ul>
+                </li>  
+            </ul>  
+        </div> </li> 
+<li> <div class="dropdown">  
+            <a  role="button" data-target="#"  
+               href="/Home/Double">多企业版</a>  
+               </div></li>
+<li>
+        <div class="dropdown">  
+            <a  role="button" data-toggle="dropdown" data-target="#"  
+               href="javascript:;">方案</a>  
+            <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">  
+                <li><a href="/Home/VTrain"><i class="icon iconfont" style="margin-right:7px;" >&#xe606;</i>企业客户</a></li>  
+                <li><a href="/Home/Peixun"><i class="icon iconfont" style="font-size: 14px;">&#xe610;</i> 培训机构</a></li> 
+                <li><a href="/Home/Org"><i class="icon iconfont" style="    margin-right: 4px;">&#xe607;</i> 政府党校</a></li> 
+                <li><a href="/Home/jiaxiao"><i class="icon iconfont" style="    margin-right: 9px;">&#xe647;</i>驾校学习</a></li> 
+                
+            </ul>  
+        </div> </li> 
+              <li>
+        <div class="dropdown">  
+             <a  role="button"  data-target="#"  
+               href="/Products/zhishi">知识库管理</a>  
+        </div> </li>
+        
+ <li>
+         <div class="dropdown">  
+            <a  role="button" data-toggle="dropdown" data-target="#"  
+               href="/Home/SeverCenter">服务</a>  
+                <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">  
+                <li><a href="/Home/SeverCenter">服务标准</a></li>  
+                <li><a href="/Home/jiage">服务收费</a></li> 
+                <li><a href="http://kf.edu-paas.com/HomeUser/mlogin.aspx">服务追踪</a></li>
+                  
+            </ul>  
+        </div> </li> <li>
+        <div class="dropdown">  
+            <a  role="button" data-toggle="dropdown" data-target="#"  
+               href="/home/about">关于</a>  
+            <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu" style="left:auto;right:0;">  
+                <li><a href="/home/about">新启简介</a></li>  
+                <li><a href="/Home/Page?key=e693652f-fdb3-47fc-a903-cf143452e3c8">新启动态</a></li> 
+                <li><a href="http://www.newstartsoft.com/html/Agent.html">代理合作</a></li> 
+                <li><a href="/html/Contact.html">联系方式</a></li> 
+                  
+            </ul>  
+        </div>  </li>
+                </ul>
+                            </div>
+
+                       
+    </nav>
+    <!---->    <!---->
+    
+<style type="text/css">
+a:hover{text-decoration:none}
+.lj {
+    background-color: #ffffff;    color: #575757;    font-size: 12px;    height: 34.5px;    line-height: 34.5px;    margin-bottom: 2px;    margin-left: 5px;    text-align: center;    width: 135px;}
+a:hover .lj {    background-color: #ffd999;}
+#xz { background-color: #ffd999;}
+#kaoshi_1 .kaoshi-gnjg-img img{ background-color:#00c558}
+#kaoshi_2 .kaoshi-gnjg-img img{ background-color:#03cddd}
+#kaoshi_3 .kaoshi-gnjg-img img{ background-color:#9765fc}
+#kaoshi_4 .kaoshi-gnjg-img img background-color:#ff753b}
+* { font-family: arial, "Hiragino Sans GB", "Microsoft Yahei", sans-serif, Arimo, "Helvetica Neue"; font-size: 14px; }
+a, a:hover { text-decoration:none }
+ul li { list-style-type:none }
+.welcome { line-height: 30px; color: #fff; }
+.banner_cursousel_img { margin-top:35px }
+.erjimenu {background: #e3e3e3  none repeat scroll 0 0;width: 100%;    position: fixed; z-index: 999;margin-top: -1px;}
+.erjimenu li img {margin-right: 5px;transition: all 0.3s ease 0s;width: 60px;margin-bottom:0}
+.erjimenu li:hover {background-color: #fff;border: 1px solid #009ff2;transition: all 0.3s ease 0s;}
+.erjimenu .active {background: #fff none repeat scroll 0 0;border: 1px solid #2c9bf5;color: #2c9bf5;font-weight: bold;}
+.erjimenu ul {margin: 0 auto;padding: 10px 0;width: 1170px;}
+.erjimenu ul li {background-color: #fff;float: left;list-style: outside none none;padding:0px 16px;text-align: center;transition: all 0.3s ease 0s;margin-right: 10px;border: 1px solid #ddd;border-radius:3px;}
+.erjimenu ul li a {color: #555;}
+.erjimenu_bottom {background: rgba(255, 255, 255, 0.6) none repeat scroll 0 0;height: 2px;}
+.erjimenu br {display: none;}
+.erjimenu .active a{color: #2c9bf5;}
+</style>
+
+<script type="text/javascript">
+	  $(function() {
+		window.onscroll = function() {
+		 var wh = $(window).height(); //窗体高度
+       	 var sh = $(document).scrollTop();
+  var t = document.documentElement.scrollTop || document.body.scrollTop;  
+	
+    function CPos(x, y)
+    {
+        this.x = x;
+        this.y = y;
+    }
+   
+    function GetObjPos(ATarget)
+    {
+        var target = ATarget;
+        var pos = new CPos(target.offsetLeft, target.offsetTop);
+        var target = target.offsetParent;
+        while (target)
+        {
+            pos.x += target.offsetLeft;
+            pos.y += target.offsetTop;
+            target = target.offsetParent
+        }
+        return pos;
+    }
+    var obj =  document.getElementById('weixin')
+    if( t >= (GetObjPos(obj)['y'] -150)) { 
+	$("#kaoshiimgyodong_2").addClass("animated fadeInRight");
+	$("#kaoshiimgyodong_2").removeClass("toumingd0");
+	$("#kaoshiimgyodong_1").addClass("animated fadeInUp");
+	$("#kaoshiimgyodong_1").removeClass("toumingd0");
+	}
+	 var obj =  document.getElementById('kaoshi_gongneng')
+    if( t >= (GetObjPos(obj)['y'] -500)) { 
+			$("#kaoshi_1").addClass("animated fadeInUp delay5s scaleBig");
+			$("#kaoshi_1").removeClass("toumingd0");
+			$("#kaoshi_2").addClass("animated fadeInUp delay5s scaleBig ");
+			$("#kaoshi_2").removeClass("toumingd0");
+			$("#kaoshi_3").addClass("animated fadeInUp delay5s scaleBig ");
+			$("#kaoshi_3").removeClass("toumingd0");
+			$("#kaoshi_4").addClass("animated fadeInUp delay5s scaleBig ");	
+			$("#kaoshi_4").removeClass("toumingd0");		
+	}
+	 var obj =  document.getElementById('kaoshi_zujuan')
+    if( t >= (GetObjPos(obj)['y'] -150)) { 
+	$("#kaoshi_zujuanimg").addClass("animated fadeInLeft");
+	
+	$("#kaoshi_zujuanimg").removeClass("toumingd0");
+	}
+	 var obj =  document.getElementById('kaoshi_jiandu')
+    if( t >= (GetObjPos(obj)['y'] -150)) { 
+	$("#kaoshi_jianduimg").addClass("animated fadeInUp");
+	$("#kaoshi_jianduimg").removeClass("toumingd0");
+	}
+		};
+    });
+
+</script>
+<style type="text/css">
+body{ overflow-x:hidden}
+</style>
+
+<div class="No2016 kaoshi-banner mainbody-top">
+<div class="erjimenu">
+<div class="container">
+<ul >
+<li><a href="http://www.newstartsoft.com/Products/xuexi"><img src="picture/header_1_1.png" class="img-circle" /><br />在线学习系统</a></li>
+<li class="active"><a href="http://www.newstartsoft.com/Products/kaoshi"><img src="picture/header_2_1.png" class="img-circle" /><br />在线考试系统</a></li>
+<li><a href="http://live.newstartsoft.com"><img src="picture/header_3_1.png"  class="img-circle"/><br />网络直播系统</a></li>
+<li><a href="http://www.newstartsoft.com/Home/Peixun"><img src="picture/header_4_1.png" class="img-circle" /><br />网校运营系统</a> </li>
+<li><a href="http://www.newstartsoft.com/Home/Question"><img src="picture/header_5_1.png" class="img-circle" /><br />题库学习系统</a></li>
+<li><a href="http://www.newstartsoft.com/html/app.html"><img src="picture/header_6_1.png" class="img-circle" /><br />移动学习APP</a></li>
+<div class="clearfix"></div>
+</ul>
+</div>
+<div class="erjimenu_bottom">
+</div>
+</div>
+</div>
+<div class="" style="margin-top:84px;background:url(images/kaoshi_banner_1.png) center;">
+    <div class="container  newstartsoft_bj" >
+    	
+    	<div>
+    		<div class="newstartsoft_banner_title">在线考试系统</div>
+    		<h1 class="newstartsoft_banner_txt">万人同考，稳定可靠，优品低价</h1>
+    		<div class="newstartsoft_banner_stitle">随机组卷，自动评阅，深度防作弊。</div>
+    		<div class="newstartsoft_banner_btn"><a  target="_blank" href="http://p.qiao.baidu.com/im/index?ucid=6998652&amp;siteid=4290248&amp;bid=bb2013bbf59b012a08cbf512&amp;bid=bb2013bbf59b012a08cbf512" class="btn btn-default">点击咨询</a></div>
+    	</div>
+    	<center><img src='picture/kaoshi_1.png'  style="margin-bottom: -70px; margin-top: 15px;"/></center>
+    </div>
+</div>
+<div class="No2016" id="kaoshi_gongneng">
+	<div class="container tks-bankuan">
+    	<div class="row">
+        <div class="col-xs-12">
+            	<div class="kaoshi-bt">
+                	<h1>专业私有云在线考试系统</h1>
+                </div>
+                <div class="kaoshi-bt2">
+                <p>快速安装\安全稳定\国际ISO10015培训标准</p>
+                </div>
+        </div>
+          <div class="col-xs-12"> 
+          <div class="row">  
+        	<div class="col-xs-6 col-sm-3 animate-enter">
+            	<div class="kaoshi-gnjg toumingd0" id="kaoshi_1">
+                    <div class="kaoshi-gnjg-img ">
+                        <img src="picture/kaoshi-1-1_1.png" class="img-responsive" alt="在线考试系统课后练习功能" title="在线考试系统课后练习功能"/>
+                    </div>
+                    <div class="kaoshi-gnjg-jieshao">
+                        <h4>封闭内部考试</h4>
+                        <p>机房考试/内部封闭考试<br>严格考试控制<br>人脸识别，指纹验证</p>
+                    </div>
+                 </div>
+            </div>
+            
+            <div class="col-xs-6 col-sm-3 animate-enter">
+            	<div class="kaoshi-gnjg toumingd0" id="kaoshi_2">
+                    <div class="kaoshi-gnjg-img">
+                        <img src="picture/kaoshi-1-2_1.png" class="img-responsive" alt="在线考试系统测试功能" title="在线考试系统测试功能"/>
+                    </div>
+                    <div class="kaoshi-gnjg-jieshao">
+                        <h4>大规模统考</h4>
+                        <p>支持高并发<br>高负荷考试<br>随机出题防止作弊</p>
+                    </div>
+                 </div>
+            </div>
+            
+            <div class="col-xs-6 col-sm-3 animate-enter">
+            	<div class="kaoshi-gnjg toumingd0" id="kaoshi_3">
+                    <div class="kaoshi-gnjg-img" >
+                        <img src="picture/kaoshi-1-3_1.png" class="img-responsive"alt="在线考试系统考核功能" title="在线考试系统考核功能"/>
+                    </div>
+                    <div class="kaoshi-gnjg-jieshao">
+                        <h4>知识竞赛</h4>
+                        <p>报名、筛选、评比<br>考试监控功能<br>功能完善之至</p>
+                    </div>
+                 </div>
+            </div>
+            
+            <div class="col-xs-6 col-sm-3 animate-enter">
+            	<div class="kaoshi-gnjg toumingd0" id="kaoshi_4">
+                    <div class="kaoshi-gnjg-img">
+                        <img src="picture/kaoshi-1-4_1.png" class="img-responsive" alt="在线考试系统辅助功能" title="在线考试系统辅助功能"/>
+                    </div>
+                    <div class="kaoshi-gnjg-jieshao">
+                        <h4>极致考试分析</h4>
+                        <p>用数据看问题<br>
+对考试内容分析<br>
+对考试学员分析<br></p>
+                    </div>
+                 </div>
+            </div> </div>   
+          </div>
+            
+            
+      
+        </div>
+    </div>
+
+</div>
+<div class="col-xs-12">
+            	<div class="kaoshi-bt">
+                	<h1>我们的特点就是“快”!</h1>
+                </div>
+                <div class="kaoshi-bt2">
+                <p>随时待命处理紧急任务，最快半小时完成私有化搭建</p>
+                </div>
+        </div>  
+<div class="No2016">
+	<div class="container tks-bankuan">
+    	<div class="row">
+        	<div class="col-xs-12 col-sm-7 col-md-7">
+            	<div class="neirong">
+                <div style="margin-top: 40px;" class="zibiaoti">
+                    系统稳定、可靠性强</div>
+                 <div class="zibiaoti2">
+                    新启系统经过上万次的测试，性能非常稳定，</div>
+                <div class="zibiaoti2">
+                    支持局域网、广域网，可组织大型的在线考试</div>
+               
+            </div>
+            </div>
+            <div class="col-xs-12 col-sm-5 col-md-5 tks-bankuan-img">
+            	<img src="picture/kaoshi-2_1.gif" class="img-responsive " alt="在线考试系统可靠性强" title="在线考试系统可靠性强"/>
+            </div>
+        </div>
+    
+    
+    </div>
+    </div>
+
+ <div class="No2016">
+     	<div class="container tks-bankuan">
+        	<div class="row">
+            	<div class="col-xs-12 col-sm-5 tks-bankuan-img">
+                	<img src="picture/kaoshi-3_1.png" class="img-responsive"  alt="在线考试系统题型" title="在线考试系统题型"/>
+                </div>
+                <div class="col-xs-12 col-sm-7">
+              <div class="neirong">
+               <div class="zibiaoti">
+                全面的题型支持</div>
+            <div class="zibiaoti2">
+                题型支持：</div>
+            <div class="zibiaoti2">
+                常规题型：单选题、多选题、判断题、填空题、问答题、综合题、操作题；</div>
+            <div class="zibiaoti2">
+                专业题型：B型题、Y型题</div>
+            <div class="zibiaoti2">
+                扩展题型：听力题、视频题、公式题、图片题、Flash动画题</div>
+            <div class="zibiaoti2">
+                可定制题型！支持二次开发！</div>
+            </div>
+                </div>
+            </div>
+        
+        </div>
+     
+     </div>
+     
+<div class="No2016 bj-f9" id="kaoshi_zujuan">
+	<div class="container tks-bankuan" style="padding-bottom: 0px;">
+    	<div class="row">
+        <div class="col-xs-12">
+            	<div class="kaoshi-bt">
+                	<h1>强大的组卷能力</h1>
+                </div>
+                <div class="kaoshi-bt2">
+                <p>支持三大组卷方式，人工出题，题库出题，随机出题！</p>
+                </div>
+        </div>
+        
+       <div class="col-xs-12 kaoshi-zujuan-neirong">
+       	<div class="row">
+        	<div class="col-xs-12 col-sm-6 tks-bankuan-img animate-enter">
+            	<img src="picture/kaoshi-4_1.png" class="img-responsive toumingd0" id="kaoshi_zujuanimg" alt="在线考试系统组卷能力" title="在线考试系统组卷能力"/>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+            	<div class="kaoshi-zujuan">
+                	<div class="kaoshi-zujuan-bt">
+                    	<h3>考试计划</h3>
+                    </div>
+                    
+                    <div class="kaoshi-zujuan-bt2">
+                    	<p>系统可任意指定参与考试人群，指定考试试卷，规定每场考试时间。并可以限定每名考生此次考试的重考次数。</p>
+                    </div>
+                    <div class="kaoshi-zujuan-bt">
+                    	<h3>绑定课程</h3>
+                    </div>
+                    <div class="kaoshi-zujuan-bt2">
+                    	<p>可根据每堂课的内容或知识点绑定其课程的考试练习。可用于讲师布置课后练习/作业。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+       </div>
+        
+        </div>
+   </div>
+</div>
+   <div class="No2016 " id="kaoshi_jiandu">
+	<div class="container tks-bankuan" style="padding-bottom: 0px;">
+    	<div class="row">
+        <div class="col-xs-12">
+            	<div class="kaoshi-bt">
+                	<h1>强大的监考能力</h1>
+                </div>
+                <div class="kaoshi-bt2">
+                <p> 随时查看学员每个考场的考试进度。<br>随时查看在线考试的考生身份、登录时间、得分等情况，还可以批准或禁止某个考生考试。</p>
+                </div>
+        </div>
+        
+       <div class="col-xs-12 kaoshi-jiankao-neirong">
+       	<div class="row">
+        	<div class="col-xs-12 tks-bankuan-img animate-enter">
+            	<img src="picture/kaoshi-5_1.png" class="img-responsive toumingd0" id="kaoshi_jianduimg" alt="在线考试系统监考能力" title="在线考试系统监考能力"/>
+            </div>
+            
+        </div>
+       </div>
+        
+        </div>
+   </div>
+</div>
+
+<div class="No2016 bj-f9">
+	<div class="container tks-bankuan" style="padding-bottom: 45px;">
+    	<div class="row">
+        <div class="col-xs-12">
+            	<div class="kaoshi-bt">
+                	<h1>试卷分析能力</h1>
+                </div>
+                <div class="kaoshi-bt2">
+                <p>系统为每个学员，每次考试进行分析。</p>
+                </div>
+        </div>
+        
+       <div class="col-xs-12 kaoshi-zujuan-neirong">
+       	<div class="row">
+        	<div class="col-xs-12 col-sm-6 tks-bankuan-img">
+            	<img  src="picture/kaoshi-6-1_1.gif" class="img-responsive" style="margin-top:40px;" alt="在线考试系统试卷分析" title="在线考试系统试卷分析"/>
+            </div>
+            <div class="col-xs-12 col-sm-6 tks-bankuan-img">
+            		<img src="picture/kaoshi-6-2_1.png" class="img-responsive"  alt="在线考试系统分析能力" title="在线考试系统分析能力"/>
+              <div class="kaoshi-zujuan-neirong_bt">
+              	<h4>系统为每个学员，每次考试进行分析。</h4>
+              </div>
+              <div class="kaoshi-zujuan-neirong_bt2">
+              	<p>考试完成后，系统会自动生成答案清单，错题给予解释。<br>系统会自动分析这张试卷的知识点分布情况，以及每个知识点的正确率。<br> 系统会对本张试卷的全部参与人成绩生成图标，考生可以查看自己所在的成绩位置。</p>
+              </div>
+            </div>
+        </div>
+       </div>
+        
+        </div>
+   </div>
+</div>
+
+ <div class="No2016" id="weixin">
+	<div class="container tks-bankuan" style="padding-bottom: 0px;">
+    	<div class="row">
+        <div class="col-xs-12">
+            	<div class="kaoshi-bt">
+                	<h1>移动考试</h1>
+                </div>
+                <div class="kaoshi-bt2">
+                <p>响应页面，无缝跨平台学习。</p>
+                </div>
+        </div>
+        <div class="col-xs-12 kaoshi-yidong-neirong ">
+        	<div class="row ">
+            	<div class="col-xs-12 col-sm-5 tks-bankuan-img animate-enter">
+                	<img src="picture/kaoshi-7-1_1.gif" class="img-responsive toumingd0" id="kaoshiimgyodong_1" alt="在线考试系统多终端覆盖" title="在线考试系统多终端覆盖"/>
+                </div>
+                <div class="col-xs-12 col-sm-7 tks-bankuan-img animate-enter">
+                	<img src="picture/kaoshi-7-2_1.png" class="img-responsive toumingd0" style="margin-top:20px;" id="kaoshiimgyodong_2" alt="移动考试系统" title="移动考试系统"/>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+ </div> 
+<div class="No2016016">
+    <div class="container tks-bankuan">
+        <div class="row">
+            <div class="col-xs-12 wenda">
+            	
+                <div class="zibiaoti">
+                    常见问题</div>
+                <div class="zibiaoti2">
+                    （1）本在线考试系统适合什么情景下使用？</div>
+                <div class="huida">
+                    <p>
+                        答：本在线考试系统适合政府、 学校及企业的各种形式在线考试、竞赛、练习等应用，全面实现了考试工作的网络化、无纸化、自动化。该系统采用新一代纯B/S架构，用于INTERNET和局域网在线考试，可以承载大规模在线考试的需求，而且对服务器的配置要求非常低，客户端不用任何设置。通过强i大的后台设置功能，用户可以根据自身需要设定考试功能，几乎能满足企业、政府机构、教育单位的所有需求。</p>
+                </div>
+                <div class="zibiaoti2">
+                    （2）本在线考试系统最大支持同时多少人在线考试？</div>
+                 <div class="huida">
+                    <p>
+                        答：考试系统本身并没有对考试人数的限制，理论上来将只要服务器的支撑能力足够无考试人数上限。对服务器方面，一般情况下百人级别同时考试普通配置服务器即可做到，千人级别同时考试需要多台服务器负载，万人同时在线考试需要单独进行部署运维解决方案。</p>
+                </div>
+                <div class="zibiaoti2">
+                    （3）我的题目中包含图片，音频等内容，这套系统能支持吗？</div>
+                 <div class="huida">
+                    <p>
+                        答：没有问题，本在线考试系统全面支持全部类型的题目附件，可以插入题目中的题干答案等位置，非常灵活。</p>
+                </div>
+                <div class="zibiaoti2">
+                    （4）我需要考试的题型为特殊题型，考试系统如何解决？</div>
+                <div class="huida">
+                    <p>
+                        答：对于非常规题型，新启科技提供特殊题型定制，我们根据开发难度与适用广泛成都来决定开发费用！</p>
+                </div>
+        
+            
+            
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div id="bj_yx" class="bj_yx pt50 pb50">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-3 col-md-7">
+                    <p class="ys7a fs26 ">试用申请</p>
+                    <div class="col-md-7 col-sm-7 col-xs-12">
+			
+                        <form class="form-horizontal">
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="userName" placeholder="您的姓名" /><label class="red fl">*</label>
+
+                                <input type="text" class="form-control" id="userPhone" placeholder="您的手机" /><label class="red fl">*</label>
+                            </div>
+                            <div class="form-group">
+                                <input type="email" class="form-control" id="userEmail" placeholder="您的邮箱" />
+                            </div>
+                            <div class="form-group">
+                                <textarea class="form-control" id="userContext" rows="3" placeholder="您想要达成的功能需求"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-default" id="uf_Submit">马上提交</button><label id="promptData">   </label>
+                            </div>
+
+                        </form>
+                    </div>
+                    <div class="col-md-5 col-sm-5 hidden-xs women">
+                        <p class="ys7a"> 我们拥有十年教育行业开发经验。为近千家企业建立属于自己的网络教育软件</p>
+                        <p class="ys7a"> 我们拥有专业的自主开发团队，可以为您的需求定制专属的在线教育软件。</p>
+                        <p class="ys7a"> 我们有百日无忧的售后服务，在您签订合同后一百日内无限次为您优化产品</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div id="footer" class="pb20">
+        <div class="container">
+            <div class="row ">
+                <div class="white textc newstartsoft_zdts">
+                    <div class="col-xs-6 col-sm-6 col-md-3" style="border-left:none;">
+                        <div><span class="fs48">10</span><span>十年技术积累</span></div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-3">
+                        <div><span class="fs48">心服务</span><span>十年技术积累</span></div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-3">
+                        <div><span class="fs48">终生</span><span>免费升级</span></div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-3" style="border-right:none;">
+                        <div><span class="fs48">百日</span><span>无忧</span></div>
+
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+        </div>
+        <div class="container ">
+            <div class="xian">
+                <p class="hei"></p>
+                <p class="bai"></p>
+            </div>
+        </div>
+        <div class="container pt50">
+            <div class="row">
+                <div class="foot-right">
+                    <div class="col-md-4 hidden-sm hidden-xs  textl wxfw">
+                        <img width="116" height="116" src="picture/weixin_2weima_1.gif" alt="新启科技-微信服务号">
+
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-8 textr">
+                        <p class="p1">Copyright &copy; 2003-2014 newstartsoft.com</p>
+                        <p class="p2">兄弟事业部：北京新启科技 | 北京1039科技 | 要塞软件 | <a href="http://www.it-guwen.com/">软件学院</a></p>
+                        <p class="p3">
+                            京ICP备14005135号 公安网备11010802013228号 <!-- WPA Button Begin -->
+                           <!-- <script charset="utf-8" type="text/javascript" src="js/wpa_1.js"></script>  -->
+                            <!-- WPA Button End -->
+                        </p>
+                        <img width="124" height="47" src="picture/kx_ga_1.gif">
+
+                        <img width="124" height="47" src="picture/kx_icp_1.gif">
+
+                        <img width="124" height="47" src="picture/kx_124x47_1.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+      <script src="js/kefu_1.js" type="text/javascript"></script>
+      
+      <script src="js/jquery.min_1.js" type="text/javascript"></script>
+      <script src="js/bootstrap.min_1.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/layer_1.js"></script>
+<script type="text/javascript" src="js/cont_1.js"></script>
+   
+     <script type="text/javascript">   
+      var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); 
+      document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fab56b832b2722790dfaae6c2d3724c4a' type='text/javascript'%3E%3C/script%3E"))
+      </script>
+
+      <script type="text/javascript">
+        $(function () {
+            //回到顶部
+            var $backToTopEle = $('<div class="backToTop" style="cursor: pointer;_right: auto; width: 50px; color:#4Db6E8; height: 50px; background: url(\'/Images/BackTop_default.png\') no-repeat 0px 0px; position: fixed; _position: absolute; bottom: 50px; right: 2%; z-index: 1280;"></div>').appendTo($("body")).click(function () {
+                $("html,body").animate({ scrollTop: 0 }, 120);
+            }).hover(function () {
+                $(this).css({ "background-position": "-50px 0px" });
+            }, function () {
+                $(this).css({ "background-position": "0px 0px" });
+            }), $backToTopFun = function () {
+                var st = $(window).scrollTop();
+                (st > 100) ? $backToTopEle.show() : $backToTopEle.hide(); //显示backToTop
+            };
+            $(window).bind("scroll", $backToTopFun);
+            $backToTopFun();
+        })
+   
+    </script>
+<script type="text/javascript">
+
+$(".navbar-toggle").click(function(){ 
+var _windowheight1=$(window).height();
+//alert(1);
+if (_windowheight1<768){
+	var _windowheight2=$(window).height();
+//alert(1);
+	$("#example-navbar-collapse").css("max-height",""+((_windowheight2-65-30))+"px").css("height",""+((_windowheight2-65-30))+"px");
+	
+	//$("#example-navbar-collapse").css("height",""+((_windowheight2-65-30))+"px");
+	//$(".app_header").css("height",""+((_windowheight2-65-30))+"px");
+}
+});
+</script>
+
+</body>
+</html>

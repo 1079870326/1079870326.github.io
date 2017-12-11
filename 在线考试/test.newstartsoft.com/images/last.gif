@@ -1,0 +1,25 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>新启科技公益404</title>
+<style type="text/css">
+html,body{height:100%;}
+*{margin:0;padding:0;}
+body{font:normal 12px/18px Tahoma,"simsun","Microsoft Yahei";background:#FFFFFF;color:#858383;}
+ul{list-style:none;}
+a{text-decoration:none; color:Blue; cursor:pointer;}
+a:hover{text-decoration:underline;}
+img{border:none;display:block;}
+
+</style>
+</head>
+<body>
+<div class="wrap m0a" id="wrap">
+<center><img id="i404" width="544" height="272" alt="404" src="/Images/m/season-autumn.jpg" />
+<br /><a href="http://www.newstartsoft.com">返回网站首页</a>
+</center>
+<script type="text/javascript" src="http://www.qq.com/404/search_children.js?edition=small" charset="utf-8"></script>
+</div>
+</body>
+</html>
