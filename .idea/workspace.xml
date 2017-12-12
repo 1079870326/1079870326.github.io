@@ -2,674 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12068855-ea98-416d-b7e0-7eda88adc1ed" name="默认的" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/css/jquery.fullPage.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/demo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/images/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/images/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/img/shufa.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/js/jquery.fullPage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/www.jq22.com/default.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/www.jq22.com/js/jquery-1.10.2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/www.jq22.com/js/jquery-1.10.2_1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/www.jq22.com/picture/banner1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/www.jq22.com/picture/banner1_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/www.jq22.com/picture/banner1_2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/www.jq22.com/picture/banner2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/www.jq22.com/picture/banner2_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/www.jq22.com/picture/banner2_2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/www.jq22.com/picture/banner3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/www.jq22.com/picture/banner3_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/在线考试/www.jq22.com/picture/banner3_2.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/在线考试/cssht/htstyle.css" afterPath="$PROJECT_DIR$/在线考试/cssht/htstyle.css" />
-      <change beforePath="$PROJECT_DIR$/在线考试/cssqd/style.css" afterPath="$PROJECT_DIR$/在线考试/cssqd/qdstyle.css" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/css/jquery.fullPage.css" afterPath="$PROJECT_DIR$/在线考试/css/jquery.fullPage.css" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/demo.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/fullPage.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/images/1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/images/2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/images/3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/images/4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/index11.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/index12.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/index13.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/index2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/index3.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/index4.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/index5.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/index6.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/index7.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/index8.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/js/jquery-1.8.3.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/js/jquery.fullPage.js" afterPath="$PROJECT_DIR$/在线考试/js/jquery.fullPage.js" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/js/jquery.fullPage.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/fullPage.rar/懒人建站.url" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/1.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/3.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/4.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/5.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/animation.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/animation_1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/bootstrap.min_1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/bootstrap.min_2.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/bootstrap.min_3.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/global.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/global_1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/iconfont.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/iconfont_1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/iconfont_2.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/iconfont_3.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/mysite.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/mysite_1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/style_yuan.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/style_yuan_1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/style_yuan_2.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/style_yuan_3.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/swiper.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/css/swiper.min_1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/glyphicons-halflings-regular_1.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/glyphicons-halflings-regular_1.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/glyphicons-halflings-regular_1.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/glyphicons-halflings-regular_1.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/iconfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/iconfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/iconfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/iconfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/iconfont_1.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/iconfont_1.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/iconfont_1.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/fonts/iconfont_1.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/1-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/1-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/10-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/10-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/100-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/100-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/101-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/101-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/102-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/102-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/103-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/103-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/104-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/104-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/106-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/106-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/107-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/107-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/11-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/11-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/12-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/12-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/13-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/13-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/14-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/14-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/15-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/15-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/16-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/16-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/17-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/17-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/18-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/18-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/19-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/19-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/2-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/2-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/20-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/20-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/21-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/21-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/22-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/22-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/23-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/23-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/24-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/24-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/25-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/25-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/26-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/26-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/27-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/27-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/28-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/28-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/29-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/29-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/3-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/3-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/30-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/30-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/31-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/31-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/32-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/32-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/34-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/34-1_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/4-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/4-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/5-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/5-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/6-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/6-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/7-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/7-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/8-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/8-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/85-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/85-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/86-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/86-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/87-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/87-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/88-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/88-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/89-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/89-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/90-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/90-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/91-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/91-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/93-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/93-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/94-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/94-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/95-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/95-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/96-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/96-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/97-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/97-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/98-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/98-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/99-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/99-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/about_banner.png" afterPath="$PROJECT_DIR$/在线考试/images/2.png" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/about_banner_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/b5bd6feeca1343bc8b01fd640eb95bf6.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/back.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/back_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/banner-khal.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/banner-khal_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/banner2_btn.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/banner2_btn_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/bg1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/bg1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/bg2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/bg2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/bg3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/bg3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/cndns_domainname_chinese_img.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/cndns_domainname_chinese_img_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/d2ff6953d3f34e0e9a69d8ee485bc2eb.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/datagrid_header_bg.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/datagrid_header_bg_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/first.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/first_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/footer_bj.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/footer_bj_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/fwbz_banner.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/fwbz_banner_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/home_split.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/home_split_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/ico.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/ico_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/index_mokuai.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/index_mokuai_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/kaoshi_banner.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/kaoshi_banner_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/kefu_bg.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/kefu_bg_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/kefu_btn.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/kefu_btn_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/khal_more.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/khal_more_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/khal_xuxian.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/khal_xuxian_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/last.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/last_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/left_top.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/left_top_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/menu_hover.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/menu_hover_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/next.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/next_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/prev.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/prev_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/tiyan_top.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/tiyan_top_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/tks-tool-bg.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/tks-tool-bg_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/tybj_banner.jpg" afterPath="$PROJECT_DIR$/在线考试/images/1.jpg" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/tybj_banner_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/ul_li_style.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/images/ul_li_style_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/bootstrap.min_1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/cont.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/cont_1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/html5shiv.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/html5shiv.min_1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/jquery-1.8.2.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/jquery-1.8.2.min_1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/jquery.min_1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/kefu.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/kefu_1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/layer.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/layer_1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/respond.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/respond_1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/swiper.jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/swiper.jquery.min_1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/wpa.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/wpa_1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/03.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/03_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/07.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/07_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/1-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/1-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/1-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/1-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/10-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/10-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/10-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/10-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/100-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/100-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/100-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/100-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/101-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/101-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/101-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/101-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/102-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/102-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/102-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/102-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/103-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/103-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/103-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/103-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/104-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/104-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/104-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/104-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/106-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/106-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/106-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/106-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/107-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/107-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/107-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/107-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/11-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/11-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/11-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/11-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/12-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/12-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/12-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/12-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/13-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/13-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/13-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/13-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/14-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/14-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/14-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/14-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/15-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/15-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/15-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/15-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/16-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/16-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/16-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/16-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/17-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/17-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/17-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/17-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/18-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/18-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/18-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/18-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/19-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/19-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/19-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/19-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/2-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/2-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/2-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/2-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/20-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/20-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/20-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/20-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/21-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/21-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/22-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/22-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/22-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/22-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/23-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/23-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/23-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/23-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/24-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/24-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/24-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/24-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/25-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/25-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/25-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/25-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/26-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/26-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/26-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/26-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/27-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/27-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/27-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/27-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/28-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/28-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/28-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/28-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/29-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/29-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/29-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/29-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/3-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/3-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/3-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/3-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/30-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/30-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/30-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/30-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/31-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/31-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/31-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/31-4_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/31-5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/31-5_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/32-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/32-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/34-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/34-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/4-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/4-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/4-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/4-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/5-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/5-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/5-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/5-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/6-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/6-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/6-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/6-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/7-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/7-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/7-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/7-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/8-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/8-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/8-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/8-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/85-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/85-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/85-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/85-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/86-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/86-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/86-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/86-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/87-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/87-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/87-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/87-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/88-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/88-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/88-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/88-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/89-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/89-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/89-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/89-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/90-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/90-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/90-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/90-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/91-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/91-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/91-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/91-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/93-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/93-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/93-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/93-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/94-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/94-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/94-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/94-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/95-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/95-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/95-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/95-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/96-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/96-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/96-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/96-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/97-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/97-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/97-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/97-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/98-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/98-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/98-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/98-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/99-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/99-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/99-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/99-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/bfyq.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/bfyq_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/cy1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/cy1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/cy2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/cy2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/cy3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/cy3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/cy4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/cy4_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_01.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_01_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_02.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_02_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_03.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_03_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_04.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_04_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_05.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_05_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_06.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_06_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_07.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_07_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_09.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_09_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_10.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_10_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_11.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_11_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_12.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_12_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_13.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/exp_13_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn4_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn5_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn6_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn7_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn8.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/gn8_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/header_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/header_1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/header_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/header_2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/header_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/header_3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/header_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/header_4_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/header_5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/header_5_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/header_6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/header_6_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-1-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-1-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-1-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-1-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-1-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-1-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-1-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-1-4_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-2.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-2_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-4_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-5_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-6-1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-6-1_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-6-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-6-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-7-1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-7-1_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-7-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi-7-2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kaoshi_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kpt.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kpt_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kx_124x47.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kx_124x47_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kx_ga.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kx_ga_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kx_icp.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/kx_icp_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/language.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/language_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/logo_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/logo_xinfuwu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/logo_xinfuwu_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/logo_xinqi.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/logo_xinqi_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/main_logo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/main_logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/main_logo2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/main_logo2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/main_logo_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/main_logo_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/mfsj.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/mfsj_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/new_.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/new__1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_4_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_51.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_51_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_52.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_52_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_53.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_53_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_61.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_61_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_62.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_62_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_63.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_63_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_64.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/shouye_64_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/sm_008.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/sm_008_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/sm_07.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/sm_07_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/sm_09.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/sm_09_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/sm_10.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/sm_10_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/weixin.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/weixin_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/weixin_2weima.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/weixin_2weima_1.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/wjxt.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/wjxt_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/wlaq.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/wlaq_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/wlmskc.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/wlmskc_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/xqdy.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/xqdy_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/xtjs.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/xtjs_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/ys1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/ys1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/ys2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/ys2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al1-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al1-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al2-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al2-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al2_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al3-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al3-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al3_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al4-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al4-1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zhishi_al4_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zsxt.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zsxt_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zyzxxz1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zyzxxz1_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zzwdxt.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/zzwdxt_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/网校支付方式.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/在线考试/test.newstartsoft.com/picture/网校支付方式_1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/在线考试/cssqd/qdstyle.css" afterPath="$PROJECT_DIR$/在线考试/cssqd/qdstyle.css" />
       <change beforePath="$PROJECT_DIR$/在线考试/前端.html" afterPath="$PROJECT_DIR$/在线考试/前端.html" />
-      <change beforePath="$PROJECT_DIR$/在线考试/后端.html" afterPath="$PROJECT_DIR$/在线考试/后端.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -685,19 +21,37 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="前端.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="前端.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/在线考试/前端.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1590">
-                  <caret line="122" column="14" lean-forward="false" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
+                <state relative-caret-position="271">
+                  <caret line="124" column="10" lean-forward="true" selection-start-line="124" selection-start-column="10" selection-end-line="124" selection-end-column="10" />
                   <folding>
                     <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#style#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="390">
+                  <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -721,8 +75,8 @@
           <file leaf-file-name="qdstyle.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/在线考试/cssqd/qdstyle.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="125">
-                  <caret line="103" column="22" lean-forward="false" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+                <state relative-caret-position="735">
+                  <caret line="213" column="0" lean-forward="true" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -826,8 +180,9 @@
         <option value="$PROJECT_DIR$/在线考试/test.newstartsoft.com/2.html" />
         <option value="$PROJECT_DIR$/在线考试/cssht/htstyle.css" />
         <option value="$PROJECT_DIR$/在线考试/demo.html" />
-        <option value="$PROJECT_DIR$/在线考试/前端.html" />
         <option value="$PROJECT_DIR$/在线考试/cssqd/qdstyle.css" />
+        <option value="$PROJECT_DIR$/在线考试/前端.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -838,9 +193,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-22" />
-    <option name="y" value="14" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="651" />
+    <option name="y" value="38" />
     <option name="width" value="1923" />
     <option name="height" value="1040" />
   </component>
@@ -859,6 +214,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -880,8 +237,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -929,16 +284,18 @@
       <workItem from="1512959595236" duration="21803000" />
       <workItem from="1512987354733" duration="4000" />
       <workItem from="1512987388326" duration="74000" />
+      <workItem from="1513039270293" duration="5599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34421000" />
+    <option name="totallyTimeSpent" value="40020000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="651" y="38" width="1923" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24583334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24541163" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32407406" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -972,14 +329,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/在线考试/cssqd/qdstyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/在线考试/后端.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5880">
@@ -988,125 +337,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/在线考试/cssht/style.css" />
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/cont.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10078">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/cont_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10078">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/html5shiv.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/html5shiv.min_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/jquery.min_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/jquery-1.8.2.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/kefu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3194">
-          <caret line="134" column="47" lean-forward="true" selection-start-line="134" selection-start-column="47" selection-end-line="134" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/kefu_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2414">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/layer_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/wpa_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2400">
-          <caret line="180" column="13" lean-forward="true" selection-start-line="180" selection-start-column="13" selection-end-line="180" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/respond.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3494">
-          <caret line="82" column="53" lean-forward="true" selection-start-line="82" selection-start-column="53" selection-end-line="82" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/respond_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1440">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/swiper.jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/swiper.jquery.min_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/wpa.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9240">
-          <caret line="148" column="21" lean-forward="true" selection-start-line="148" selection-start-column="21" selection-end-line="148" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/cont.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/cont_1.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/html5shiv.min.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/html5shiv.min_1.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/jquery.min_1.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/jquery-1.8.2.min.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/kefu.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/kefu_1.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/layer.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/layer_1.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/wpa_1.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/respond.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/respond_1.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/swiper.jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/swiper.jquery.min_1.js" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/js/wpa.js" />
     <entry file="file://$PROJECT_DIR$/在线考试/cssht/htstyle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1120,13 +367,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/在线考试/jQueryCSS3lbt/images/1.png" />
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="865" column="7" lean-forward="true" selection-start-line="865" selection-start-column="7" selection-end-line="865" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/2.html" />
     <entry file="file://$PROJECT_DIR$/在线考试/jQueryCSS3lbt/index.html" />
     <entry file="file://$PROJECT_DIR$/在线考试/jqueryScrollBanner/js/jquery.min.js" />
     <entry file="file://$PROJECT_DIR$/在线考试/jqueryScrollBanner/index.html" />
@@ -1173,13 +414,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/css/jquery.fullPage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/css/jquery.fullPage.css" />
     <entry file="file://$PROJECT_DIR$/在线考试/css/jquery.fullPage.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1187,25 +422,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/images/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/index7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/js/jquery.fullPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10891">
-          <caret line="123" column="10" lean-forward="true" selection-start-line="123" selection-start-column="10" selection-end-line="123" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/images/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/index7.html" />
+    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/js/jquery.fullPage.js" />
     <entry file="file://$PROJECT_DIR$/WEB-CUI/HBuilderProject/pt1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -1213,21 +432,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/index6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="84" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/index6.html" />
+    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/demo.html" />
     <entry file="file://$PROJECT_DIR$/在线考试/demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
@@ -1238,40 +444,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="31" column="10" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="31" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/cssqd/qdstyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="103" column="22" lean-forward="false" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="126" column="31" lean-forward="false" selection-start-line="126" selection-start-column="31" selection-end-line="126" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/picture/banner1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/在线考试/picture/banner1_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/在线考试/fullPage.rar/index2.html" />
+    <entry file="file://$PROJECT_DIR$/在线考试/test.newstartsoft.com/1.html" />
+    <entry file="file://$PROJECT_DIR$/在线考试/picture/banner1.png" />
+    <entry file="file://$PROJECT_DIR$/在线考试/picture/banner1_1.png" />
     <entry file="file://$PROJECT_DIR$/在线考试/images/2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1282,18 +458,42 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/在线考试/cssqd/qdstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="213" column="0" lean-forward="true" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/在线考试/前端.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="122" column="14" lean-forward="false" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
+        <state relative-caret-position="271">
+          <caret line="124" column="10" lean-forward="true" selection-start-line="124" selection-start-column="10" selection-end-line="124" selection-end-column="10" />
           <folding>
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>

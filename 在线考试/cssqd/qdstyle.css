@@ -8,6 +8,7 @@ a{
 li{
     list-style: none;
 }
+
 .lb{
     width: 100%;
     height: 390px;
@@ -18,7 +19,7 @@ li{
 }
 
 html{
-    background: #f2f2f2;
+    background: #f7f8fa;
 }
 .col-md-1{
     width: 8.333333333333334%;
@@ -75,6 +76,7 @@ nav{
     top: 0;
     line-height: 50px;
     /*color:#fff;*/
+    background: #f7f8fa;
 }
 .logo{
     width: 130px;
@@ -97,6 +99,7 @@ nav{
     width: 1140px;
     margin: 0 auto;
     overflow: hidden;
+    background: #ffffff;
 }
 .signin{
     /*height: 50px;*/
@@ -166,6 +169,44 @@ nav{
     display: block;
     border-radius:5px 50px;
     user-select: none;
+}
+
+.nr{
+    width: 50%;
+    height: 600px;
+}
+.nr h3{
+    text-align: center;
+    padding: 20px 0;
+}
+.nr ul li{
+    width: 85%;
+    margin:0 auto;
+    padding: 20px 0;
+    text-indent: 4em;
+    border-bottom: dashed 1px #000000;
+}
+.nr ul li:hover{
+    background-color: rgb(249, 249, 249);
+    /*background: red;*/
+}
+footer{
+    width: 100%;
+    /*height: 300px;*/
+    background: #2e3133;
+    color: #ffffff;
+}
+footer h3{
+    padding: 5px 0;
+}
+footer .main{
+    background: #2e3133;
+}
+footer .main .yl a{
+    text-decoration:none;
+    color:#999;
+    display:inline-block;
+    padding:5px 15px 10px 0;
 }
 
 
