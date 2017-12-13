@@ -1,6 +1,6 @@
 /*
 *网络爬虫的实现原理
-* 提取www.itsource.cn首页中的所有图片
+* 提取club.lenovo.com.cn首页中的所有图片
 * 发起请求-读取首页html-提取所有图片的地址-向图片地址发起请求-获取图片数据-将图片保存到硬盘
 *
 * 需求：用node.js编写代码实现 下载 网站首页的所有的图片
@@ -12,11 +12,11 @@
  */
 
 
-var http=require('http');
+var https=require('https');
 var fs=require('fs');
 var path=require('path');
 //
-http.get('http://www.itsource.cn/',function (res) {
+https.get('https://www.meitulu.com',function (res) {
 
     var content=''
     //通过相应对象，得到HTML数据
@@ -26,15 +26,14 @@ http.get('http://www.itsource.cn/',function (res) {
 
     res.on('end',function () {
         // console.log(content)
-        var reg=/src="(.*?\.png)"/img;
+        var reg=/src="(.*?\.jpg)"/img;
             // .*?   匹配所有
         var filename;
         while( filename=reg.exec(content)){
             getImage(filename[1])
             //下载图片的方法
         }
-
-
+        
         // fs.writeFile('./test.txt',data,function () {
         //     console.log('写入成功')
         // })
@@ -53,11 +52,11 @@ function getImage(url) {
          url='/'+url
      }
      //拼接成一个完整的图片url，才能发起请求
-    url='http://www.itsource.cn'+url
+    url='https://www.meitulu.com/'+url
 
 
     //向服务器发起请求 ，获取图片
-    http.get(url,function (res) {
+    https.get(url,function (res) {
         res.pipe(stream1);
         console.log(fn+"读取完毕！")
     })

@@ -1,0 +1,98 @@
+/*个人*/
+.geren .main{
+    height: 900px;
+}
+*{
+    transition: all 1s
+}
+*:hover{
+    /*box-shadow:2px 2px 10px #06c;*/
+    border-radius: 25px;
+}
+
+
+.geren .main>.col-md-2{
+    background: #34947f;
+    height: 100%;
+}
+.geren .main>.col-md-2>div>ul>li{
+    padding: 5px;
+    text-indent: 2em;
+    border-bottom: dotted 2px #999999;
+
+}
+.geren .main>.col-md-2 .list1{
+    border-bottom: 1px solid #f7f8fa;
+
+}
+.geren .main>.col-md-2 .list1 div{
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+    display: inline-block;
+    font-size: 14px;
+}
+.geren .main .col-md-10 .col-md-4 div{
+    width: 100%;
+    margin:0 auto 20px auto;
+    height: 300px;
+    background: #f3f7fd;
+    text-indent: 2em;
+
+}
+.geren .main .col-md-10 .col-md-4 div h4{
+    line-height: 40px;
+    border-bottom: 1px solid;
+}
+.geren .main .col-md-10 .col-md-4 div ul li{
+    padding: 5px 0;
+    font-size: 14px;
+    border-bottom: dashed 1px #000000;
+}
+.geren .main .col-md-10 .col-md-4{
+    background: #f3f7fd;
+}
+.geren .main .col-md-10 .col-md-8>div{
+    width: 98%;
+    margin:0 auto 30px auto;
+    background: #f3f7fd;
+    border: 1px solid ;
+    border-radius: 20px 5px;
+
+}
+.geren .main .col-md-10 .col-md-8>.wz{
+    border: none;
+}
+.geren .main .col-md-10 .col-md-8>div .head{
+    font-size: 20px;
+    font-weight: bold;
+    width: 100%;
+
+    border-bottom:1px solid;
+    text-indent: 1em;
+
+}
+.geren .main .col-md-10 .col-md-8>div span{
+    color: #b95e5e;
+}
+.geren>.main>.col-md-10>.col-md-8>div{
+    overflow: hidden;
+    text-indent: 1em;
+    padding: 15px 0 5px 0;
+}
+.geren>.main>.col-md-10>.col-md-8>.gk .foot li{
+    width: 50%;
+    float: left;
+    text-indent: 1em;
+}
+.geren>.main>.col-md-10>.col-md-8 .kc{
+    width: 90%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.geren>.main>.col-md-10>.col-md-8 .kc ul{
+    overflow: hidden;
+}
+.geren>.main>.col-md-10>.col-md-8 .kc>ul>li{
+    float: left;
+}
