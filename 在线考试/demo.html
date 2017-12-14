@@ -1,99 +1,33 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
+<!doctype html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <title>fullPage.js — 绑定菜单演示 - 懒人建站http://www.51xuediannao.com/</title>
-    <link rel="stylesheet" href="css/jquery.fullPage.css">
-    <link rel="stylesheet" href="cssqd/qdstyle.css">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
     <style>
-        #menu {
-            margin: 0;
-            padding: 0;
-            position: fixed;
-            left: 10px;
-            top: 50px;
-            list-style-type: none;
-            z-index: 70;
-        }
 
-        #menu li {
-            float: left;
-            margin: 0 10px 0 0;
-            font-size: 14px;
-        }
-
-        #menu a {
-            float: left;
-            padding: 10px 20px;
-            background-color: #fff;
-            color: #333;
-            text-decoration: none;
-        }
-
-        #menu .active a {
-            color: #fff;
-            background-color: #333;
-        }
-
-        .section {
-            text-align: center;
-            font: 50px "Microsoft Yahei";
-            color: #fff;
-        }
     </style>
-    <script src="js/jquery-3.2.1.js"></script>
-    <script src="js/jquery.fullPage.js"></script>
-    <script>
-        $(function () {
-            $('#dowebok').fullpage({
-                sectionsColor: ['#1bbc9b', '#4BBFC3', '#7BAABE', '#f90'],
-                anchors: ['page1', 'page2', 'page3', 'page4'],
-                menu: '#menu'
-            });
-        });
-    </script>
 </head>
-
 <body>
-<nav>
-    <div class="logo">
-        <img src="img/main_logo.png" alt="">
-    </div>
-    <div class="nav-right">
-        <a href="前端.html">首页</a>
-        <a href="">在线培训系统</a>
-        <a href="">在线考试系统</a>
-        <a href="">优选文章</a>
-        <a href="">个人信息</a>
-    </div>
-</nav>
-<ul id="menu">
-    <li data-menuanchor="page1" class="active"><a href="#page1">第一屏</a></li>
-    <li data-menuanchor="page2"><a href="#page2">第二屏</a></li>
-    <li data-menuanchor="page3"><a href="#page3">第三屏</a></li>
-    <li data-menuanchor="page4"><a href="#page4">第四屏</a></li>
-</ul>
+<div>
+    <style>
+        div{
+        width: 400px;
+        height: 400px;
+        overflow: hidden;
+        margin:200px auto;
 
-<div id="dowebok">
-    <div class="section">
-        <div class="slide"><h3>第二屏的第一屏</h3></div>
-        <div class="slide"><h3>第二屏的第二屏</h3></div>
-        <div class="slide"><h3>第二屏的第三屏</h3></div>
-    </div>
-    <div class="section">
-        <h3>第一屏</h3>
-        <p>fullPage.js — 绑定菜单演示</p>
-    </div>
+    }
+    img{
+        /*img原大小400*400放大后480*/
+        width: 120%;
+        margin: -10% -10%;
 
-    <div class="section">
-        <h3>第三屏</h3>
-        <p>绑定的菜单没有默认的样式，你需要自行编写</p>
-    </div>
-    <div class="section">
-        <h3>第四屏</h3>
-        <p>这是最后一屏</p>
-    </div>
+    }</style>
+
+    <img src="img/QQ截图20171212165457.png" alt="">
 </div>
-
 </body>
 </html>
